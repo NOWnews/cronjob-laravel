@@ -8,6 +8,19 @@ use Illuminate\Support\ServiceProvider;
 
 class ImportNEWTALKService
 {
+	public function checkTargetStrValidation($status, $targetStr){
+                $list = array("習近平","習大大","習大","習皇帝","習包子","小熊維尼","藏獨","疆獨","台獨","港獨","達賴","法輪功","宗教迫害","六四","坦
+克人","六月四日","天安門");
+                $size = count($list);
+                for($i=0; $i<$size; $i++) {
+                        if (strpos($targetStr, $list[$i]) !== false) {
+                                $status = "draft";
+                                break;
+                        }
+                }
+                return $status;
+        }
+
     public function newtalkxmlparser ($import) {
 	$newtalk_xml = file_get_contents("https://newtalk.tw/rss_news_b2b.php?ch=NOENEWS&ccd=9bc34549d565d9505b287de0cd20ac77be1d3f2c");
 	$rn = "<br>\r\n";
@@ -48,8 +61,8 @@ class ImportNEWTALKService
 		$newtalkImagesObjectId = '';
 		if(isset($value->subcategory)){
 			$subcategory = $value->subcategory;
-                        if($subcategory == '國際'){$category .= ',123718,7';$newtalkImagesObjectId = '2952527';}
-			else if($subcategory == '藝文'){$category .= ',123719,124246';$newtalkImagesObjectId = '2952531';}
+//                        if($subcategory == '國際'){$category .= ',123718,7';$newtalkImagesObjectId = '2952527';}
+			 if($subcategory == '藝文'){$category .= ',123719,124246';$newtalkImagesObjectId = '2952531';}
 			else if($subcategory == '電競'){$category .= ',123720,90';$newtalkImagesObjectId = '2952528';}
 			else if($subcategory == '環保'){$category .= ',123721,124251';$newtalkImagesObjectId = '2952529';}
                 }
@@ -74,8 +87,19 @@ class ImportNEWTALKService
 			$status = exec("$code");
 			if($status == '200'){
 				$aliveImg = true;
-				$photofile = file_get_contents("$imageUrl");
+				//$photofile = file_get_contents("$imageUrl");
+				
 				$filename = md5($uniqKey).".jpg";
+				$arrContextOptions=array(
+      					"ssl"=>array(
+            				"verify_peer"=>false,
+            				"verify_peer_name"=>false,
+        				),
+    				);  
+				$photofile = file_get_contents($imageUrl,false, stream_context_create($arrContextOptions));
+	
+				//file_get_contents(,stream);$url, false, stream_context_create($arrContextOptions));
+				//file_get_contents(path,include_path,context,start,max_length)
 				file_put_contents("/var/www/html/rssFeed/newtalk_img/$filename", $photofile);
 			}
 			echo $filename;
@@ -84,12 +108,15 @@ class ImportNEWTALKService
 
 		}
 
+		$publishStatus = "publish";
 		$title = mb_substr($value->title, 0, 26, 'utf8');
+		$publishStatus = $this->checkTargetStrValidation($publishStatus, $title);
 		$description = str_replace('"', '\"', $value->description);
+		$publishStatus = $this->checkTargetStrValidation($publishStatus, $description);
 		echo $description.$rn;
 
 
-		$wp_post = "wp post create --allow-root --path=\"/var/www/html\" --post_type=post --post_author=1004 --post_category=$category --post_date=\"".$pubdateFormat."\" --meta_input='{\"byline\":\"新頭殼\"}' --post_title=\"".htmlspecialchars($title,ENT_QUOTES)."\" --post_status=publish --post_content=\"".$description."\" --porcelain";
+		$wp_post = "wp post create --allow-root --path=\"/var/www/html\" --post_type=post --post_author=1004 --post_category=$category --post_date=\"".$pubdateFormat."\" --meta_input='{\"byline\":\"新頭殼\"}' --post_title=\"".htmlspecialchars($title,ENT_QUOTES)."\" --post_status=\"".$publishStatus."\" --post_content=\"".$description."\" --porcelain";
 		$createPost = shell_exec("$wp_post");
 		if($createPost){
 			DB::insert('insert into newtalk_feed (guid) values (?)', [$uniqKey]);

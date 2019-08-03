@@ -1,0 +1,1928 @@
+<?xml version="1.0" ?>
+<NewsML>
+   <Catalog Href="http://www.feedpartner.net/catalog.MasterCatalog.xml" />
+   <NewsEnvelope>
+      <DateAndTime>20190715T064027</DateAndTime>
+      <NewsService FormalName="Thumbnail" link-url="http://www.cna.com.tw">http://rss.cna.com.tw/images/cna_logo_msn_165x35.png</NewsService>
+   </NewsEnvelope>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T060439</FirstCreated>
+          <ThisRevisionCreated>20190715T060439</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0136" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0136">
+              <DateLine>20190715T060439</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>失明黃背心示威者重返街頭 抗議警察動武過當</HeadLine>
+                     <SlugLine>法國今天在香榭麗舍
+大道舉行例行國慶閱兵儀式，部分「黃背心」示威群眾
+再次上街抗議。多名在先前黃背心示威潮時遭打瞎眼的
+抗議者重返街頭，控訴法國警方不當使用武力。
+
+    今年3月，當部分激進黃背心示威者朝知名的老牌
+餐廳Le Fouquet's縱火時，參與示威但沒縱火的布萊登
+斯坦 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>失明黃背心示威者重返街頭 抗議警察動武過當</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社巴黎14日綜合外電報導）法國今天在香榭麗舍大道舉行例行國慶閱兵儀式，部分「黃背心」示威群眾再次上街抗議。多名在先前黃背心示威潮時遭打瞎眼的抗議者重返街頭，控訴法國警方不當使用武力。</p>
+<p>今年3月，當部分激進黃背心示威者朝知名的老牌餐廳Le Fouquet's縱火時，參與示威但沒縱火的布萊登斯坦（David Breidenstein）雖意識到要離開以免惹禍上身，但仍遭鎮暴警察宛若高球大小的橡膠子彈擊中左眼。</p>
+<p>他說：「當時感覺就像一塊水泥打來，我倒地後就想說：完了，我的眼睛沒了。」</p>
+<p>美國有線電視新聞網（CNN）報導，布萊登斯坦是24名在黃背心示威潮裡失明的抗議人士之一；法國自去年11月起引發連串黃背心示威潮。24人失明這個數字是由專門協助在示威中致殘人士組織解除武裝（Desarmons-Les）所提供。</p>
+<p>法國內政部今年3月給出的黃背心示威者受傷人數為2200人，警方受傷人數為1500人；法國內政部沒提供眼部受傷的人數。</p>
+<p>布萊登斯坦花了2個月才能打開家中百葉窗，以免眼睛對強光不適。他今天重新加入已延續35週的黃背心示威，不過示威人數已遠不如數月前，現在每週六的示威只剩不到100人。</p>
+<p>今天重返街頭的還有侯德瑞格斯（JeromeRodrigues）。他是今年1月在示威現場直播時受傷，當時石塊與催淚瓦斯齊飛，示威者與鎮暴警察上演官兵捉強盜，人群四竄，一枚催淚彈就落在侯德瑞格斯左腳邊，橡膠子彈打中他右眼。</p>
+<p>在眼球縫了17針、眼皮縫了4針後，侯德瑞格斯說現在連基本的日常活動都很難，「有時只要有人突然出現在我旁邊，我都會嚇到，這已成了我的日常」。</p>
+<p>曾任職軍中與警員的佛斯提耶（Olivier Fostier）也是失明傷者，他的右眼當時被一陣催淚瓦斯所薰，破片隨即插入眼窩，現在都帶著墨鏡遮眼，指控鎮暴警察當日動武過當。</p>
+<p>聯合國與歐洲議會都譴責法國警方在黃背心示威潮期間過當使用武力。法國內政部長卡斯塔納（Christophe Castaner）先前不斷為鎮暴警察處理集會時的手段辯護，但上月他下令檢討警方處理群眾事件的方式。</p>
+<p>另一失明者勒華（Gwendal Leroy）失業，他相信只要找工作，眼傷會成為一大絆腳石，「這已非我能做什麼工作的問題，而是誰會想僱用我。到處都有反黃背心的資方，你覺得他們會選我還是別人？這已成了我終生的標籤」。</p>
+<p>勒華等人已就警方不當使用武力對法國政府興訟，但法國政府至今仍無回應。（譯者：陳亦偉/核稿：陳昱婷）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T054339</FirstCreated>
+          <ThisRevisionCreated>20190715T054339</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0126" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0126">
+              <DateLine>20190715T054339</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>嗆自家女議員回原籍國 川普被酸她們政府是真爛</HeadLine>
+                     <SlugLine>美國總統川普推文
+暗示某些少數族裔聯邦眾議員並非美國公民，要她們滾
+回原籍國後，川普2016年大選宿敵希拉蕊酸說，這些議
+員都是美國人，而她們的政府確實是徹底的災難。
+
+    民主黨籍前國務卿希拉蕊．柯林頓（Hillary 
+Clinton）嗆川普說，川普影射的這幾位女議員「都來
+自 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>嗆自家女議員回原籍國 川普被酸她們政府是真爛</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社華盛頓14日綜合外電報導）美國總統川普推文暗示某些少數族裔聯邦眾議員並非美國公民，要她們滾回原籍國後，川普2016年大選宿敵希拉蕊酸說，這些議員都是美國人，而她們的政府確實是徹底的災難。</p>
+<p>民主黨籍前國務卿希拉蕊．柯林頓（HillaryClinton）嗆川普說，川普影射的這幾位女議員「都來自美國，但你有件事說對了，她們的政府目前是完全且徹底的災難」。</p>
+<p>川普稍早一連發3則推文說：「真有意思，看到這些『進步派』民主黨籍女國會議員，她們原本所在國家的政府是完全且徹底的災難…卻惡毒地告訴美國人民…我們政府該怎麼運作。」</p>
+<p>川普沒有說出他指涉的對象是誰，但推文說：「她們為什麼不回原籍國，幫忙收拾殘破不堪和犯罪猖獗的爛攤子？」</p>
+<p>法新社和路透社報導，川普影射的，似乎是聯邦眾議院內一組年紀相對輕、自由派、去年首度入主國會的少數族裔女性，包括紐約州的歐加修-寇蒂茲（Alexandria Ocasio-Cortez）、明尼蘇達州的歐瑪（Ilhan Omar）、密西根州的特萊布（Rashida Tlaib）以及麻州的普瑞斯利（Ayanna Pressley）。</p>
+<p>上述4人，只有歐瑪不在美國出生。她年幼時隨家人以難民身分離開索馬利亞，並於1997年抵達美國明尼蘇達州明尼阿波利斯（Minneapolis）。</p>
+<p>歐加修-寇蒂茲在推特回嗆跟她同樣出身紐約市的「老鄉」川普說：「總統先生，我『來自』的國家，是我們全都宣誓效忠的美國。」她說：「你之所以大動肝火，是因為你無法接受美國有我們這些人。你仰賴一個受驚的美國好讓你下手掠奪。」</p>
+<p>「但是，總統先生，你知道最大的痛處在哪嗎？你除了無法接受美國用選票選出了我們，也無法接受我們不怕你的事實。」</p>
+<p>歐瑪也在推特回擊川普說：「你正在煽動白人民族主義，因為你很生氣，像我們這樣的人能進入國會並對抗你充滿仇恨的議題。」</p>
+<p>普瑞斯利則在推特上傳川普貼文螢幕截圖，說川普言論「正是種族歧視的樣貌，而我們則是民主的樣貌」。</p>
+<p>民主黨籍眾議院議長裴洛西（Nancy Pelosi）力挺自家人，在推特批評川普：「我拒絕川普的仇外言論，那意圖分裂我們的國家。」</p>
+<p>裴洛西說，川普的言論證實他「讓美國再次偉大」的計畫，向來都是「讓美國再白回來」。</p>
+<p>然而，川普2020競選連任辦公室通訊副主任渥金（Matt Wolking）堅稱，總統的話被錯誤解讀。渥金推文說：「任何人指控總統叫國會成員滾回原籍國，都是在扯謊。總統是要他們『回來，讓我們看看事情是怎麼辦的』。」（譯者：蔡佳敏/核稿：劉文瑜）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T051238</FirstCreated>
+          <ThisRevisionCreated>20190715T051238</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0116" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0116">
+              <DateLine>20190715T051238</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>川普驅逐移民行動展開 雷聲大雨點小無人遭捕</HeadLine>
+                     <SlugLine>美國當局週末展開逮
+捕無證移民家庭的小規模行動，開始總統川普遣返數以
+千計移民的計畫。移民及倡議者雖對這場全國性逮捕行
+動嚴陣以待，但今天晚上僅零星城市傳出低調行動。
+
+    路透社報導，這場長達數天的行動料鎖定最近抵達
+美國約10座城市，但被移民法官下令遣返的2000名移民
+。此行 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>川普驅逐移民行動展開 雷聲大雨點小無人遭捕</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社紐約14日綜合外電報導）美國當局週末展開逮捕無證移民家庭的小規模行動，開始總統川普遣返數以千計移民的計畫。移民及倡議者雖對這場全國性逮捕行動嚴陣以待，但今天晚上僅零星城市傳出低調行動。</p>
+<p>路透社報導，這場長達數天的行動料鎖定最近抵達美國約10座城市，但被移民法官下令遣返的2000名移民。此行動旨在遏止逃離家園的貧困與幫派暴力，並向美國尋求庇護的中美洲移民潮。</p>
+<p>南方反貧窮法律中心（SPLC）的包爾（Mary Bauer）說，亞特蘭大等南方大城沒有發生經證實的行動。</p>
+<p>美國移民事務理事會（American ImmigrationCouncil）有律師在德州迪利（Dilley）全國最大的移民家庭拘留中心戒備，但也沒傳出逮捕情事。</p>
+<p>法新社報導，紐約市長白思豪（Bill de Blasio）表示，他聽聞昨天發生3起美國移民暨海關執法局（ICE）的突襲事件，但沒有人因此遭逮捕。</p>
+<p>「洛杉磯時報」（Los Angeles Times）報導，在佛羅里達州，有人看見移民暨海關執法局人員到邁阿密國際機場附近與移民農莊周邊敲門，但沒有傳出逮捕案例。</p>
+<p>「華盛頓郵報」（WP）及「巴爾的摩太陽報」（Baltimore Sun）報導，幾乎沒有移民暨海關執法局大規模行動的證據。巴爾的摩太陽報表示，少數移民今天出現在巴爾的摩附近。</p>
+<p>保守派名嘴要求川普採取更強硬的行動，並指出前總統歐巴馬的民主黨政府在2012年驅逐了40萬9849人，跟川普去年的25萬6085人差距甚遠。</p>
+<p>川普上個月首次提到這項突擊，隨後將計畫推遲，而行動規模似乎比那時承諾逮捕並驅逐「數以百萬計」人小很多。</p>
+<p>美國國籍暨移民局（USCIS）代理主任庫奇內力（Ken Cuccinelli）為突擊辯護，他告訴美國廣播公司（ABC）政論節目「本週」（This Week）：「如果我們沒有在國內執法，就無法威懾非法移民。」（譯者：侯文婷/核稿：陳昱婷）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T045438</FirstCreated>
+          <ThisRevisionCreated>20190715T045438</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0108" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0108">
+              <DateLine>20190715T045438</DateLine>
+              <Author>石秀娟</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>印尼總統佐科威上陣督軍 向僚氣官員開刀</HeadLine>
+                     <SlugLine>印尼總統佐科威
+14日誓言親自督軍，徹底改革官僚體系，革職僚氣不改
+的官員，解散沒功能且有問題的機構，他的第二任期將
+找勇於任事的部長組閣，打造印尼成為世界強國之一。
+
+    連任成功的佐科威（Joko Widodo）10月20日將就
+職，任期5年。他14日晚間在雅加達近郊茂物（Bog ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>印尼總統佐科威上陣督軍 向僚氣官員開刀</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者石秀娟雅加達15日專電）印尼總統佐科威14日誓言親自督軍，徹底改革官僚體系，革職僚氣不改的官員，解散沒功能且有問題的機構，他的第二任期將找勇於任事的部長組閣，打造印尼成為世界強國之一。</p>
+<p>連任成功的佐科威（Joko Widodo）10月20日將就職，任期5年。他14日晚間在雅加達近郊茂物（Bogor）的桑圖爾國際會議中心以「印尼願景」演說，發表下一任的施政重點。</p>
+<p>佐科威指出，將繼續加速大型基礎建設的興建，例如鐵、公路、港口和機場，便利連結產地、工業區與經濟特區、旅遊景點的交通網絡。</p>
+<p>佐科威將人力資源的發展視為他下一任的重中之重。他指出，「這是印尼未來的關鍵」，相關議題包括：減少孕產婦死亡率、照顧幼兒及學童健康、改善教育品質等。</p>
+<p>佐科威表示，他將建立印尼人才管理機構，挖掘、培育人才，鼓勵在海外發展的印尼人才將所能貢獻給國家。</p>
+<p>佐科威說，為了創造更多就業機會，印尼應盡最大可能吸引外資，「不要害怕外資」，任何阻礙外資的障礙都應剷除，例如行政流程過慢、發照程序複雜、收取不法費用等，他會親自追蹤、控管、改革相關程序。</p>
+<p>佐科威也強調改革官僚體系的重要性，他要公務員「小心」，不應只直線思考，要靈活；不應把工作當例行公事而敷衍了事；不要只想待在舒適圈，必須改變官僚心態，如果官僚不改變，「我會把他們解職」。</p>
+<p>佐科威說，公務體系服務速度是改革關鍵，他會親自監督、管理，沒功能、有問題的機構，「我會把他們解散」。</p>
+<p>印尼4月大選後結果揭曉後，反對陣營的對手、獲激進穆斯林團體和前軍系勢力支持普拉伯沃（PrabowoSubianto）起先不認輸，指控選舉舞弊，5月底發起的街頭抗議演變成暴動，直到憲法法庭6月確認選舉有效，才結束紛爭。</p>
+<p>佐科威在演講最後指出，要實現「印尼願景」，印尼必須團結，「我們是一個團結在多元中的國家」，民主社會的反對勢力不應訴諸污辱或謾罵，不應製造仇恨或報復；他鼓勵民眾樂觀面對未來，確信印尼會成為世界強國之一。</p>
+<p>此外，佐科威與普拉伯沃13日一起搭乘雅加達捷運，這是兩人選後首度會面，雙方都呼籲支持者和解、團結。（編輯：王永志）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T045238</FirstCreated>
+          <ThisRevisionCreated>20190715T045238</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0104" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0104">
+              <DateLine>20190715T045238</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>7.3強震襲印尼東部釀1死 居民心有餘悸不敢回家</HeadLine>
+                     <SlugLine>印尼東部偏遠摩鹿
+加群島昨天下午發生規模7.3地震，一名官員表示，截
+至目前至少1人罹難，數以百計居民撤離家園。
+
+    根據美國地質調查所（USGS），北摩鹿加群島省（
+North Maluku）城鎮干那低（Ternate）南南西方約165
+公里處昨天下午6時28分（台北時間14日下 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>7.3強震襲印尼東部釀1死 居民心有餘悸不敢回家</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社雅加達15日綜合外電報導）印尼東部偏遠摩鹿加群島昨天下午發生規模7.3地震，一名官員表示，截至目前至少1人罹難，數以百計居民撤離家園。</p>
+<p>根據美國地質調查所（USGS），北摩鹿加群島省（North Maluku）城鎮干那低（Ternate）南南西方約165公里處昨天下午6時28分（台北時間14日下午5時28分）發生淺層地震。</p>
+<p>地震發生時，距離震央最近的南哈馬赫拉島（South Halmahera）地區約有160棟民宅倒塌。當局證實有一名婦女罹難。</p>
+<p>當地災難處理官員今天告訴法新社，地震發生時，受害者住處倒塌，遭屋瓦碎片擊中而喪命。此外，尚無其他傷亡通報。</p>
+<p>數以百計民眾目前仍在學校、政府建物及高處避難。</p>
+<p>官員說，餘震非常頻繁，民眾心有餘悸，還不敢回家。</p>
+<p>印尼地球物理及氣象局（Meteorology,Climatology and Geophysics Agency）說，首次地震發生後，直至今天上午已發生至少52次餘震。</p>
+<p>北摩鹿加省上週也發生規模6.9地震，所幸未傳出重大災損與傷亡。（譯者：紀錦玲/核稿：劉文瑜）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T042237</FirstCreated>
+          <ThisRevisionCreated>20190715T042237</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0097" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0097">
+              <DateLine>20190715T042237</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>南韓議員擬訪日折衝貿易戰 日方見解傾向悲觀</HeadLine>
+                     <SlugLine>日本對出口南韓原料
+祭出管制措施，南韓要求日本撤回，目前看來僵局難解
+，日媒報導，傳出南韓朝野國會議員有意組團訪日折衝
+，但日本政府相關人士持悲觀看法，「現實很嚴酷」。
+
+    日本與南韓因前徵用工（遭日本企業強徵的南韓勞
+工）爭議關係惡化，日本政府經濟產業省1日宣布，強
+化管制含氟 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>南韓議員擬訪日折衝貿易戰 日方見解傾向悲觀</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社東京15日綜合外電報導）日本對出口南韓原料祭出管制措施，南韓要求日本撤回，目前看來僵局難解，日媒報導，傳出南韓朝野國會議員有意組團訪日折衝，但日本政府相關人士持悲觀看法，「現實很嚴酷」。</p>
+<p>日本與南韓因前徵用工（遭日本企業強徵的南韓勞工）爭議關係惡化，日本政府經濟產業省1日宣布，強化管制含氟聚醯亞胺、光阻劑及蝕刻氣體3項關鍵電子原料出口南韓，並於4日正式上路，被視為是對南韓的反制措施。</p>
+<p>日本朝日新聞報導，南韓政府產業通商資源部14日表示，將在23日到24日舉行的世界貿易組織（WTO）總理事會（General Council）上，說明日本出口管制措施的非正當性。</p>
+<p>報導指出，在日本政府拒絕撤回管制措施及與南韓政府協商的情況下，研判南韓此舉應是意圖訴諸國際輿論，強化對日本的壓力。</p>
+<p>南韓9日已在WTO的貨品貿易理事會（Council forTrade in Goods）上批評日本，並要求日本撤回管制措施。南韓產業通商資源部表示，將在總理事會上全力尋求成員國理解與支持。</p>
+<p>南韓朝野國會議員為尋求解決方案，目前正規劃待日本21日參議院大選結束後訪問日本，因為日媒曾報導，日本首相安倍晉三政府之所以採取強硬態度對待南韓政府，可能是看到日本民眾討厭南韓情緒蔓延，此舉有助在參議院大選得到選民支持。</p>
+<p>南韓國會相關人士說，目前計畫訪日的包括執政黨議員、南韓國會議長文喜相擔任名譽會長的韓日議會外交論壇成員，及最大在野黨自由韓國黨的議員。</p>
+<p>此外，南韓跨黨派的韓日議員聯盟會長姜昌一所屬團體，也在考量是否訪日。</p>
+<p>不過，日本政府相關人士說，雖然南韓方面期待參議院大選後，日本政界對南韓的態度會有所緩和，但「現實很嚴酷」，表達出雙方要透過議員外交扭轉局勢的悲觀看法。</p>
+<p>日本放送協會（NHK）報導，WTO總理事會上的討論與爭端解決是不同的途徑，南韓政府也正在研究向WTO提訴。</p>
+<p>日韓政府課長級官員已在12日舉行事務層級會議，但雙方見解極為懸殊難以妥協，加上南韓已派政府高官前往美國進行輿論戰，接下來南韓爭取國際社會支持的態勢十分鮮明。</p>
+<p>日本政府目前立場未改變，認為實施對出口南韓原料進行管制，是由於有安全保障上的疑慮而重新檢視貿易管制的運用，「把出口南韓手續從簡化的優惠對象恢復成對一般國家的情況，並沒有違反WTO原則」。</p>
+<p>日本政府實施管制措施主要理由，是這些原料有可能轉用在軍事用途，且南韓在貿易管制方面被發現數起「不適當案例」，並非是針對前徵用工問題等的反制措施。（譯者：黃名璽/核稿：蔡佳敏）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T042137</FirstCreated>
+          <ThisRevisionCreated>20190715T042137</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0096" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0096">
+              <DateLine>20190715T042137</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>法國國慶閱兵後 示威者齊聚巴黎街頭再滋事</HeadLine>
+                     <SlugLine>法國今天慶祝國慶，
+總統馬克宏在香榭麗舍大道主持閱兵儀式，歐洲各國領
+袖也出席觀禮，閱兵典禮結束後數小時，法國警方動用
+催淚瓦斯驅離抗議群眾。
+
+    著名的香榭麗舍大道（Champs Elysees）在閱兵儀
+式結束後不久即恢復通行，但數以百計草根運動「黃背
+心」抗議人士試圖占據街 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>法國國慶閱兵後 示威者齊聚巴黎街頭再滋事</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社巴黎14日綜合外電報導）法國今天慶祝國慶，總統馬克宏在香榭麗舍大道主持閱兵儀式，歐洲各國領袖也出席觀禮，閱兵典禮結束後數小時，法國警方動用催淚瓦斯驅離抗議群眾。</p>
+<p>著名的香榭麗舍大道（Champs Elysees）在閱兵儀式結束後不久即恢復通行，但數以百計草根運動「黃背心」抗議人士試圖占據街道。此時馬克宏與貴賓們已動身前往總統府共進午餐。</p>
+<p>警方動用催淚瓦斯驅離抗議群眾和一些穿著連帽衫的滋事者，他們試圖用鐵圍欄和垃圾桶等阻擋道路。</p>
+<p>根據路透社取得的一段影音，一名警察使用胡椒噴霧驅趕兩名抗議人士後，另一名男子從背後將他踢倒在地，還揍了他幾拳；這名警察和同僚也用警棍還擊。</p>
+<p>警方推文說，當局已下令抗議人士離開現場，或予強制驅離。</p>
+<p>閱兵典禮進行時，4300名軍士行經香榭麗舍大道並未遇阻礙，但馬克宏與參謀總長勒匡特（FrancoisLecointre）一同搭乘敞篷司令車時，「黃背心」抗議人群發出一些嘲諷與口哨聲。</p>
+<p>消息來源告訴法新社，3名帶頭的活動成員被拘留了幾個小時，不過稍後已獲釋。（譯者：紀錦玲/核稿：劉文瑜）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T041237</FirstCreated>
+          <ThisRevisionCreated>20190715T041237</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0091" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0091">
+              <DateLine>20190715T041237</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>新問題不斷 波音737 MAX恐得停飛到明年</HeadLine>
+                     <SlugLine>「華爾街日報」今天
+引述知情人士披露，波音737 MAX系列飛機恐得停飛到
+明年初；波音公司上月才因又發現軟體問題，私下提供
+客戶解決指南。
+
+    報導引述不具名的美國聯邦航空總署（FAA）內消
+息人士和機師工會領袖指出，根據「最新可能的情況」
+，737 MAX系列料將等到2020 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>新問題不斷 波音737 MAX恐得停飛到明年</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社紐約14日綜合外電報導）「華爾街日報」今天引述知情人士披露，波音737 MAX系列飛機恐得停飛到明年初；波音公司上月才因又發現軟體問題，私下提供客戶解決指南。</p>
+<p>報導引述不具名的美國聯邦航空總署（FAA）內消息人士和機師工會領袖指出，根據「最新可能的情況」，737 MAX系列料將等到2020年1月才能開始復飛，但整個動態隨時會變，沒有任何固定的時間表。</p>
+<p>5個多月內發生兩起空難奪走346條人命後，各國飛安單位紛紛下令停飛這款波音最新型的737系列客機。在波音公司依FAA要求，測試一個理論上會造成飛控電腦失效的問題後，FAA上月26日又找出新的軟體瑕疵。</p>
+<p>美國各航空公司先前表示，一旦全球停飛令獲解除，也得花上數週時間準備，以便這些停飛的飛機能恢復商業營運和因應機師訓練。</p>
+<p>另有知情人士透露，歐盟航空安全總署（EASA）日前要求波音，在737 MAX系列復飛前需處理5個要項，其中一項是先前均未關注到的自動駕駛功能。EASA已將要求改進的清單送交FAA與波音。</p>
+<p>EASA的清單包括多個先前已知的問題，像是機師操作手動配平輪恐有困難、MAX系列的攻角感測器不夠可靠、機師訓練不足，以及FAA所找出、歸咎於不良微處理器的最新軟體問題。但EASA列出機上自動駕駛在一些特定緊急狀況時無法解除，先前未見通報。</p>
+<p>EASA發現，MAX系列的機上自動駕駛有時無法順利解除，恐使機師無法在飛機失速前有足夠時間接管飛機。（譯者：陳亦偉/核稿：陳昱婷）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T033336</FirstCreated>
+          <ThisRevisionCreated>20190715T033336</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0063" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0063">
+              <DateLine>20190715T033336</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>號角喚鹿看鹿群飛奔 日本奈良獨有活動登場</HeadLine>
+                     <SlugLine>日本奈良每年夏天及
+冬天都會舉行獨有的「號角喚鹿」活動，用號角讓散居
+公園四處的鹿飛奔聚集。今年夏季場昨天在號角手吹響
+法國號後登場，吸引不少遊客慕名前來與鹿互動。
+
+    日本放送協會（NHK）報導，為吸引觀光客造訪奈
+良公園，每年夏天跟冬天都會舉行「號角喚鹿」活動。
+
+     ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>號角喚鹿看鹿群飛奔 日本奈良獨有活動登場</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社東京15日綜合外電報導）日本奈良每年夏天及冬天都會舉行獨有的「號角喚鹿」活動，用號角讓散居公園四處的鹿飛奔聚集。今年夏季場昨天在號角手吹響法國號後登場，吸引不少遊客慕名前來與鹿互動。</p>
+<p>日本放送協會（NHK）報導，為吸引觀光客造訪奈良公園，每年夏天跟冬天都會舉行「號角喚鹿」活動。</p>
+<p>日本時間昨天上午9時30分，致力保護鹿群的民間團體成員，在奈良公園內被稱為「飛火野」的大廣場吹響號角，可看到鹿一隻隻從樹林裡跑出來，聚集到號角手身旁。</p>
+<p>昨天號角手吹奏的樂曲，選擇的是相當符合現場意境的貝多芬名曲F大調第6號交響曲「田園」。</p>
+<p>今年夏季首場「號角喚鹿」大約聚集70多隻鹿，津津有味地吃著最愛的橡樹果實。很多慕名而來的觀光客開心地一邊跟鹿拍照，一邊餵鹿吃鹿餅。</p>
+<p>從日本岡山來觀光的女性遊客說，第一次看到這麼多的鹿聚集在一起，真是嚇了一跳，「氣勢驚人」。</p>
+<p>根據奈良市觀光協會官網介紹，這項活動最早始於1892年，是奈良獨有、世界上唯一與鹿互動的趣味祭典活動。</p>
+<p>奈良公園的鹿平常以小團體群居各處，但當「號角喚鹿」時，這些鹿就會從四面八方奔向號角手，擠在一起吃橡樹果實。</p>
+<p>整個過程先由「奈良的鹿愛護會」老師介紹奈良的鹿典故與生態，然後用法國號吹奏樂聲；聽到樂聲的鹿就會從各處奔跑而來，老師再把準備好的橡樹果實分給鹿吃，最後讓民眾與鹿拍照留念。</p>
+<p>這樣一場「號角喚鹿」活動大約15分鐘，到9月22日前的每個星期日上午9時30分各有一場。活動不需報名。（譯者：黃名璽/核稿：蔡佳敏）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T033236</FirstCreated>
+          <ThisRevisionCreated>20190715T033236</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0062" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0062">
+              <DateLine>20190715T033236</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>非裔民權人士陳屍座車後車廂 美警朝他殺偵辦</HeadLine>
+                     <SlugLine>美國知名非裔民權
+人士羅伯茲-約瑟夫（Sadie Roberts-Joseph）12日被
+發現陳屍座車後車廂，路易斯安那州警方今天表示，目
+前朝他殺方向偵辦。
+
+    當局表示，75歲的羅伯茲-約瑟夫12日下午被發現
+陳屍座車後車廂，但尚未釐清死因。座車當時停靠處，
+距離她在南方大學 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>非裔民權人士陳屍座車後車廂 美警朝他殺偵辦</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社洛杉磯14日綜合外電報導）美國知名非裔民權人士羅伯茲-約瑟夫（Sadie Roberts-Joseph）12日被發現陳屍座車後車廂，路易斯安那州警方今天表示，目前朝他殺方向偵辦。</p>
+<p>當局表示，75歲的羅伯茲-約瑟夫12日下午被發現陳屍座車後車廂，但尚未釐清死因。座車當時停靠處，距離她在南方大學（Southern University and A&amp;MCollege）附近的住家僅4.8公里。</p>
+<p>巴頓魯治警局（Baton Rouge Police Department）警官麥克尼利（L'Jean Mckneely）表示，警方接獲匿名報案電話指出一輛車的後車廂藏有屍體，才發現羅伯茲-約瑟夫的遺體。</p>
+<p>警方婉拒透露更多調查細節，但巴頓魯治警局官方臉書的貼文清楚指出，當局是以凶殺案偵辦。</p>
+<p>貼文寫道：「我們的探員正在積極調查這個令人髮指的案件，要把該負責的人繩之以法。」貼文並盛讚羅伯茲-約瑟夫是「社區裡孜孜不倦的和平倡議者」。</p>
+<p>法醫表示，羅伯茲-約瑟夫的遺體將於明天解剖判定死因，「初步並無證據」顯示這是自殺或意外。</p>
+<p>羅伯茲-約瑟夫創辦巴頓魯治非裔美國人歷史博物館（Baton Rouge African-American History Museum），2001年開幕，也發起非營利組織「反毒與暴力社群」（Community Against Drugs and Violence）。</p>
+<p>她從未擔任過公職，1996年競選聯邦參議員、1999參選路州副州長都未當選。（譯者：鄭詩韻/核稿：劉文瑜）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T025435</FirstCreated>
+          <ThisRevisionCreated>20190715T025435</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0048" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0048">
+              <DateLine>20190715T025435</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>伊朗願有條件與美談判 英法德促對話解決危機</HeadLine>
+                     <SlugLine>伊朗總統羅哈
+尼（Hassan Rouhani）今天在電視演說中表示，若美國
+解除對伊朗制裁，並重返2015年多邊核協議，伊朗準備
+與美國對談。
+
+    川普政府則表示，對伊朗敞開協商大門，但對核子
+與安全議題要有影響更深遠的協議。
+
+    不過伊朗設下談判條件，首先要能恢復伊朗 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>伊朗願有條件與美談判 英法德促對話解決危機</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社杜拜/巴黎14日綜合外電報導）伊朗總統羅哈尼（Hassan Rouhani）今天在電視演說中表示，若美國解除對伊朗制裁，並重返2015年多邊核協議，伊朗準備與美國對談。</p>
+<p>川普政府則表示，對伊朗敞開協商大門，但對核子與安全議題要有影響更深遠的協議。</p>
+<p>不過伊朗設下談判條件，首先要能恢復伊朗的石油出口，而出口量必須是美國去年5月退出核協議之前的水準。</p>
+<p>羅哈尼今天演說指出：「我們一直堅信對談的價值…如果他們取消制裁，不再施加經濟壓力，並且重返核協議，我們準備與美國談判，時間就是現在、地點任選。」。</p>
+<p>美國與伊朗關係緊繃之際，英、法、德3國今天呼籲雙方對話，以結束伊朗核計畫引發的緊張情勢。</p>
+<p>3國領袖在聲明中強調，對列強與伊朗2015年達成的核協議恐進一步瓦解感到憂心，但他們也說，協議是否繼續有效，取決於伊朗。（譯者：紀錦玲/核稿：劉文瑜）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T020235</FirstCreated>
+          <ThisRevisionCreated>20190715T020235</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0039" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0039">
+              <DateLine>20190715T020235</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>瓜國總統與川普會晤喊卡 安全第三國協議踩煞車</HeadLine>
+                     <SlugLine>瓜地馬拉總統莫拉
+萊斯原訂明天在華府與美國總統川普會面，以討論簽署
+安全第三國協議，協助路過的中美洲移民，但在面臨國
+內反對壓力下，瓜國今天聲明說峰會已延後。
+
+    聲明指出，總統莫拉萊斯（Jimmy Morales）原訂
+本週在華府與美國總統川普會面，目前會議已經延後，
+直到瓜國 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>瓜國總統與川普會晤喊卡 安全第三國協議踩煞車</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社華盛頓14日綜合外電報導）瓜地馬拉總統莫拉萊斯原訂明天在華府與美國總統川普會面，以討論簽署安全第三國協議，協助路過的中美洲移民，但在面臨國內反對壓力下，瓜國今天聲明說峰會已延後。</p>
+<p>聲明指出，總統莫拉萊斯（Jimmy Morales）原訂本週在華府與美國總統川普會面，目前會議已經延後，直到瓜國憲法法院對安全第三國協議作出裁決為止。</p>
+<p>聲明並強調，瓜國沒有計畫要簽署此類協議。</p>
+<p>法新社報導，莫拉萊斯和川普原訂明天在華府會晤。</p>
+<p>瓜國上週有5位前高階官員聲請憲法法院裁決，要求阻止瓜國與美國簽署安全第三國協議。</p>
+<p>根據安全第三國協議，瓜地馬拉扮演「安全第三國」的角色，有義務提供途經瓜國前往美國的移民庇護。目前許多來自宏都拉斯或薩爾瓦多的移民，取道瓜地馬拉抵墨西哥，再前往美國邊界。（譯者：紀錦玲/核稿：陳昱婷）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T015134</FirstCreated>
+          <ThisRevisionCreated>20190715T015134</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0037" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0037">
+              <DateLine>20190715T015134</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>路透：美企可能最快2週內 恢復對華為銷售產品</HeadLine>
+                     <SlugLine>美國一名資深官員
+說，美國可能最快兩週內批准發放許可證，讓美國企業
+重新開始銷售產品給華為。這反映了總統川普最近表示
+要放寬對華為的限制後，美國政府將加快鬆綁速度。
+
+    全球最大電信設備製造商華為5月被美國商務部列
+入實體清單，禁止美國企業向華為提供新的美國製商品
+和服務，除非他 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>路透：美企可能最快2週內 恢復對華為銷售產品</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社華盛頓14日綜合外電報導）美國一名資深官員說，美國可能最快兩週內批准發放許可證，讓美國企業重新開始銷售產品給華為。這反映了總統川普最近表示要放寬對華為的限制後，美國政府將加快鬆綁速度。</p>
+<p>全球最大電信設備製造商華為5月被美國商務部列入實體清單，禁止美國企業向華為提供新的美國製商品和服務，除非他們獲得許可，但申請許可也可能會被拒絕。</p>
+<p>川普上個月底與中國國家主席習近平會面後，川普宣布美國公司可以賣產品給華為。商務部部長羅斯（Wilbur Ross）最近表示，將在不對美國國家安全構成威脅的情況下核發許可證。</p>
+<p>川普態度反轉，加上商務部的迅速落實，意味晶片業遊說成功和中國的政治施壓，可能重新刺激美國對華為的技術銷售。</p>
+<p>兩家華為的美國晶片供應商近日匿名告訴路透，羅斯發表聲明後，他們會申請更多許可證。</p>
+<p>根據華盛頓貿易合規顧問瑞奇利（Craig Ridgley），一家客戶反應管理公司和一間幫華為模擬雷達截面的企業，也可能在未來幾天申請許可。</p>
+<p>華為2018年花700億美元購買零件，有110億美元是向美國廠商採購，包括高通（Qualcomm）、英特爾（Intel）和美光科技（Micron Technology）。</p>
+<p>前商務部官員沃爾夫（Kevin Wolf）說：「既然沒有不利之處，企業一定會根據規定要求提交申請。」（譯者：陳昱婷/核稿：劉文瑜）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T001433</FirstCreated>
+          <ThisRevisionCreated>20190715T001433</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0019" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0019">
+              <DateLine>20190715T001433</DateLine>
+              <Author>江今葉</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>美參議員接受福斯訪問  談蔡總統訪紐約</HeadLine>
+                     <SlugLine>美國眾議院外委
+會首席議員麥考爾接受福斯新聞訪問，談與蔡總統會晤
+，他表示，對台軍售讓台灣得以自我防衛，免受中國侵
+犯。他也表達蔡總統對中國可能干涉明年總統大選的擔
+憂。
+
+    麥考爾（Michael McCaul）今天接受福斯新聞（
+Fox News）節目Sunday Morni ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>美參議員接受福斯訪問  談蔡總統訪紐約</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者江今葉華盛頓14日專電）美國眾議院外委會首席議員麥考爾接受福斯新聞訪問，談與蔡總統會晤，他表示，對台軍售讓台灣得以自我防衛，免受中國侵犯。他也表達蔡總統對中國可能干涉明年總統大選的擔憂。</p>
+<p>麥考爾（Michael McCaul）今天接受福斯新聞（Fox News）節目Sunday Morning Futures主持人巴帝羅默（Maria Bartiromo）訪問，暢談美國外交政策。</p>
+<p>巴帝羅默介紹麥考爾是剛與總統蔡英文會晤的其中一位國會議員。剛訪問過壹傳媒集團創辦人黎智英的巴蒂羅默第一個問題就是台灣。她請麥考爾談談他與蔡總統的會晤內容，因為「很顯然的，這不會讓中國太高興。」</p>
+<p>麥考爾表示，「確實如此。我認為我們對台灣的支持，確實讓中國感到沮喪」。中國在香港變得非常非常咄咄逼人，對台灣也是如此。</p>
+<p>麥考爾指出，蔡總統認為中國將干預總統大選以選出中國傀儡。這情況和1990年代末期，中國試圖投注經費到前美國總統柯林頓（Bill Clinton）陣營頗為類似。</p>
+<p>他接著表示，這樣的情況已經持續相當長的時間，現在也成為焦點。台灣主張自由與民主，這也是他和聯邦眾議院外交委員會主席恩格爾（Eliot Engel）批准向台灣出售22億美元軍售的原因，這可以讓台灣得以自我防衛，免受中國侵犯。</p>
+<p>麥考爾並指出，美國行政部門知會將出售包括標鎗（Javelin）反戰車飛彈、艾布蘭戰車（Abrams）在內的多項軍備給台灣，總額達22億美元，以提供台灣自我防衛之用，並向中國發出十分明確的訊息。</p>
+<p>他說，「正如我在週五（12日）晚間的晚宴（指當晚紐約僑宴）所說，不要惹德州（麥考爾出身德州），不要惹台灣。我們要武裝台灣，讓她（蔡總統）能在自家門前自我防衛，不被具侵略性的中國共產黨侵犯。」</p>
+<p>巴蒂羅默則補充指出，軍售項目中部分系統是由洛克希德馬丁公司（Lockheed Martin）生產，美國總統上週才與該公司執行長休森（Marillyn Hewson）會晤，休森承諾位於賓州的工廠將繼續營運，洛克希德馬丁公司與美國政府間的聯繫將更為緊密。</p>
+<p>麥考爾與恩格爾等多位美國聯邦參眾議員12日傍晚出席紐約僑宴，麥考爾在接受媒體訪問時表示，恩格爾和他都同意軍售，近期還核准20億美元的支援性軍售項目，台灣可以自我防衛。國會也面臨行政部門和白宮將向國會提出對台出售66架F-16，及要國會同意的要求。（編輯：高照芬）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T000333</FirstCreated>
+          <ThisRevisionCreated>20190715T000333</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0018" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0018">
+              <DateLine>20190715T000333</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>若當上首相 強生：將訪美會川普協商貿易協議</HeadLine>
+                     <SlugLine>英國「泰晤士報」今
+天引述消息人士報導，英國下任首相熱門人選強生表示
+，若當選，他希望在上任後2個月內與美國總統川普會
+面，就英國脫歐後貿易與美進行談判。
+
+    泰晤士報引述強生（Boris Johnson）盟友的話報
+導說：「整件事的關鍵是美國。如果我們與美國達成貿
+易協議，其他 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>若當上首相 強生：將訪美會川普協商貿易協議</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社倫敦14日綜合外電報導）英國「泰晤士報」今天引述消息人士報導，英國下任首相熱門人選強生表示，若當選，他希望在上任後2個月內與美國總統川普會面，就英國脫歐後貿易與美進行談判。</p>
+<p>泰晤士報引述強生（Boris Johnson）盟友的話報導說：「整件事的關鍵是美國。如果我們與美國達成貿易協議，其他協議也很快就能到手。」</p>
+<p>他說，與美的貿易「將讓其他國家明白，英國還是認真的」。</p>
+<p>據泰晤士報報導，曾任英國外相的強生若成為首相，他準備好在10月31日脫歐期限前，儘快訪美達成有限的協議。（譯者：陳昱婷/核稿：蔡佳敏）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T000233</FirstCreated>
+          <ThisRevisionCreated>20190715T000233</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0017" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0017">
+              <DateLine>20190715T000233</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>川普轟民主黨女性眾議員：哪裡來的回哪去</HeadLine>
+                     <SlugLine>美國總統川普今天
+在推特發文，不具名地批評數名民主黨籍女性聯邦眾議
+員，還叫她們「回去」原籍國。這番言論讓民主黨人士
+相當不滿，紛紛在網路反批川普。
+
+    川普在推文中提到「進步派」民主黨女性眾議員，
+似乎是指涉一群直言不諱的年輕自由派女性，她們都是
+眾議院的新秀議員。
+
+   ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>川普轟民主黨女性眾議員：哪裡來的回哪去</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社華盛頓14日綜合外電報導）美國總統川普今天在推特發文，不具名地批評數名民主黨籍女性聯邦眾議員，還叫她們「回去」原籍國。這番言論讓民主黨人士相當不滿，紛紛在網路反批川普。</p>
+<p>川普在推文中提到「進步派」民主黨女性眾議員，似乎是指涉一群直言不諱的年輕自由派女性，她們都是眾議院的新秀議員。</p>
+<p>法新社報導，這些人包括紐約州眾議員歐加修-寇蒂茲（Alexandria Ocasio-Cortez）、明尼蘇達州眾議員歐瑪（Ilhan Omar）和密西根州眾議員特萊布（Rashida Tlaib）。</p>
+<p>雖然川普沒有說出他指涉的對象是誰，但推文說她們「原本所在的國家，那裡的政府是完全且徹底的災難，是全世界最糟糕、最腐敗也最無能」。</p>
+<p>他還批評這些女性眾議員「惡毒地告訴美國民眾，在這個世界上最偉大、最強大的國家，我們的政府應該如何運作。」</p>
+<p>「她們為什麼不回原籍國，幫忙收拾殘破不堪和犯罪猖獗的爛攤子？」</p>
+<p>歐加修-寇蒂茲在紐約出生，擁有波多黎各裔血統，特萊布出生於底特律，是首位巴勒斯坦裔美籍國會議員，索馬利亞難民出身的歐瑪，則是美國第一位黑人穆斯林女國會議員。</p>
+<p>針對川普的推文，歐瑪在推特回擊：「你正在煽動白人民族主義，因為你很生氣，像我們這樣的人能進入國會並對抗你充滿仇恨的議題。」</p>
+<p>民主黨籍眾議院議長裴洛西（Nancy Pelosi）也在推特批評川普：「我拒絕川普的仇外言論，那意圖分裂我們的國家。」（譯者：陳彥鈞/核稿：劉文瑜）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T000233</FirstCreated>
+          <ThisRevisionCreated>20190715T000233</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0016" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0016">
+              <DateLine>20190715T000233</DateLine>
+              <Author>尹俊傑</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>台灣原住民青年合唱團  登芝加哥電視台展歌喉</HeadLine>
+                     <SlugLine>台灣原聲教育協會
+籌組原住民青年合唱團近期訪美，赴奧蘭多、芝加哥等
+城市演出，昨天登上芝加哥ABC7電視台晨間節目一展歌
+喉，讓美國觀眾欣賞到台灣美妙的聲音。
+
+    合唱團由台灣原聲教育協會領隊車和道與世台聯合
+基金會前執行長姚宏智率領，共有13名成員，來自台灣
+7個原住民族，包括 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>台灣原住民青年合唱團  登芝加哥電視台展歌喉</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者尹俊傑紐約14日專電）台灣原聲教育協會籌組原住民青年合唱團近期訪美，赴奧蘭多、芝加哥等城市演出，昨天登上芝加哥ABC7電視台晨間節目一展歌喉，讓美國觀眾欣賞到台灣美妙的聲音。</p>
+<p>合唱團由台灣原聲教育協會領隊車和道與世台聯合基金會前執行長姚宏智率領，共有13名成員，來自台灣7個原住民族，包括阿美族、排灣族、布農族、卑南族、魯凱族、達悟族及卡那卡那富族。</p>
+<p>合唱團7月上旬應邀在佛羅里達州奧蘭多舉行的美國印地安青年聯盟年會（2019 National UNITYConference）表演，隨後赴芝加哥等城市演出並從事文化交流。</p>
+<p>駐芝加哥辦事處長黃鈞耀美中時間13日帶領這群原住民青年，與姚宏智一同登上芝加哥ABC7電視台主播培修（Diane Pathieu）與李維拉（Mark Rivera）主持的晨間新聞節目。</p>
+<p>黃鈞耀表示，台灣不僅是美國各界領袖讚美的民主典範與高科技經濟，更是多元文化社會，擁有16個原住民族。學者研究發現，台灣是南島語系發源地，南太平洋島嶼與紐西蘭等地原住民都發源自台灣。</p>
+<p>他說，台灣有很多可探索的地方，如今芝加哥幾乎每天都有直飛台灣的班機，非常便利，歡迎美國民眾赴台觀光。</p>
+<p>節目隨後安排台灣原住民青年合唱團演唱富含鄉愁與感情的歌曲Kulumaha（回家吧）。</p>
+<p>ABC7電視台在大芝加哥地區擁有數十萬收視戶，合唱團成員對能被芝加哥主流電視台採訪，感到十分興奮。姚宏智說，此行有助原住民青年進行國際交流、拓展視野。車和道也對合唱團表現表示肯定。（編輯：王永志）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T194232</FirstCreated>
+          <ThisRevisionCreated>20190714T194232</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0007" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0007">
+              <DateLine>20190714T194232</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>瑞典小型飛機失事墜毀 機上9人全罹難</HeadLine>
+                     <SlugLine>瑞典地方當局
+指出，一架載有跳傘遊客的小型飛機今天墜毀在北部一
+座島嶼，機上9人全數喪命。
+
+    瑞典西博滕省（Vaesterbotten）政府發言人班德
+林（Gabriella Bandling）告訴法新社說：「機上9人
+已罹難。」但班德林沒有透露罹難者的身分。
+
+    美聯 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>瑞典小型飛機失事墜毀 機上9人全罹難</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社斯德哥爾摩14日綜合外電報導）瑞典地方當局指出，一架載有跳傘遊客的小型飛機今天墜毀在北部一座島嶼，機上9人全數喪命。</p>
+<p>瑞典西博滕省（Vaesterbotten）政府發言人班德林（Gabriella Bandling）告訴法新社說：「機上9人已罹難。」但班德林沒有透露罹難者的身分。</p>
+<p>美聯社報導，這起事故發生於當地時間下午2時後，飛機墜毀在烏米亞市（Umea）附近一座島嶼，失事原因尚不清楚。</p>
+<p>法新社報導，墜毀的飛機機型是GippsAero GA8Airvan，這架單引擎小型飛機失事前從烏米亞市的機場起飛。</p>
+<p>瑞典媒體「晚報」（Aftonbladet）在網路公布的現場影片顯示，這架飛機在天空中垂直朝下撞向地面。（譯者：陳彥鈞）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T150917</FirstCreated>
+          <ThisRevisionCreated>20190714T150917</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0204" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0204">
+              <DateLine>20190714T150917</DateLine>
+              <Author>何宏儒</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>東地中海緊張升高 賽普勒斯土裔提議共享資源</HeadLine>
+                     <SlugLine>土耳其裔賽普勒
+斯領袖阿欽席（Mustafa Akinci）昨天提議，在南北分
+裂的賽普勒斯島組成聯合委員會，處理因離岸能源爭議
+而引發的緊張態勢。土耳其對這項提議表示歡迎。
+
+    賽普勒斯1960年獨立，原由希臘裔和土耳其裔共治
+，卻因宗教、文化和語言歧異而時起衝突。
+
+    ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>東地中海緊張升高 賽普勒斯土裔提議共享資源</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者何宏儒安卡拉14日專電）土耳其裔賽普勒斯領袖阿欽席（Mustafa Akinci）昨天提議，在南北分裂的賽普勒斯島組成聯合委員會，處理因離岸能源爭議而引發的緊張態勢。土耳其對這項提議表示歡迎。</p>
+<p>賽普勒斯1960年獨立，原由希臘裔和土耳其裔共治，卻因宗教、文化和語言歧異而時起衝突。</p>
+<p>1974年希裔在希臘軍政府唆使下試圖發動政變與希臘合併，土耳其以保護土裔為由出兵占領賽島北部1/3土地，並於1984年扶植土裔成立北賽普勒斯土耳其共和國（北賽），但國際僅承認希裔控制的賽普勒斯共和國（南賽）。</p>
+<p>地中海東部發現蘊藏豐富天然氣後，引發歐洲聯盟（EU）會員國賽普勒斯與土耳其間齟齬，近期的能源爭端再度勾起賽島分裂45年來的新仇舊恨。土耳其派遣「征服者號」（Fatih）和「凶猛號」（Yavuz）兩艘鑽井船在東地中海探勘油氣資源，與賽普勒斯共和國再陷爭端。</p>
+<p>就在土耳其矢言將繼續在賽普勒斯外海鑽探之際，阿欽席透過聯合國向賽普勒斯共和國總統阿納斯塔西亞迪斯（Nicos Anastasiades）轉達上述照會，強調相關措施目的是要「將碳氫化合物議題從緊張衝突的境地轉化為富有成效的合作」。</p>
+<p>獨立媒體「中東之眼」（Middle East Eye）報導，土耳其去年要求能源公司不可替南賽政府探勘，並派遣兩艘鑽井船赴賽島外海作業，此舉導致南賽當局對土耳其鑽井船船員和配合土耳其石油公司（TurkishPetroleum Corporation）作業的民間公司幹部發出國際逮捕令，引發區域緊張。</p>
+<p>阿欽席上述提議目的是要在土耳其和南賽之間開創合作機制，強調雙方共享油氣資源、擁有同等權利。土耳其對上述提議表示歡迎。</p>
+<p>土耳其外交部在聲明中提到：「從這點上來看，這項提議設想涵蓋收益共享在內的合作，讓雙方同時從油氣資源中獲益。」安卡拉當局強調，這項提議將「開創雙方合作的新時期」。</p>
+<p>自賽島1974年分裂以來，多次締造和平的努力都前功盡棄，在東地中海發現離岸能源後導致相關談判更形複雜。</p>
+<p>與賽普勒斯共和國沒有外交關係的土耳其是唯一承認北賽普勒斯土耳其共和國的國家。南賽當局認為土耳其的鑽探作業違反國際法，並且強調對於相關油氣資源的決定屬於南賽主權的範疇。</p>
+<p>土耳其外交部在聲明中表示，安卡拉決心保護土裔賽普勒斯人在海上天然氣資源方面的平等權利，並保護土耳其在東地中海大陸礁層的權利。</p>
+<p>阿欽席提議的委員會將受聯合國監督，並由歐盟擔任觀察員，成員包括來自北賽和南賽政府相同數量的代表。</p>
+<p>「征服者號」5月起在賽島西部外海作業，「凶猛號」上週起停泊在賽島東北部外海準備作業。歐盟外交官準備削減對安卡拉援款並暫停對土耳其的高層接觸，以展現對歐盟成員國賽普勒斯的堅定支持。</p>
+<p>歐盟討論中的一項決議草案認為，有鑑於土耳其「持續且再度進行違法鑽探活動」，歐盟應刪減與安卡拉入盟談判有關的款項。</p>
+<p>不過，雖然歐盟曾表達，在土耳其總統艾爾段（Recep Tayyip Erdogan）治下，安卡拉與歐盟漸行漸遠，但牽涉土耳其入盟談判的歐盟外交官仍認為，歐盟還是需要在包括安全和移民等議題上與土耳其合作，對安卡拉的制裁將有其限度。1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T150317</FirstCreated>
+          <ThisRevisionCreated>20190714T150317</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0203" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0203">
+              <DateLine>20190714T150317</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>西班牙奔牛節8天跑完 共8人遭牛頂傷</HeadLine>
+                     <SlugLine>西班牙北
+部班普羅納市（Pamplona）知名年度聖佛明節（San 
+Fermin）奔牛活動今天結束，最後一天再添3人遭牛角
+刺傷，使得今年為期8天活動總計8人被牛角頂傷。
+
+    法新社報導，今年遭牛角刺傷而住院的參加者當中
+，有一名美國人是在自拍時頸部遭刺。
+
+    衛生單位 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>西班牙奔牛節8天跑完 共8人遭牛頂傷</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社西班牙班普羅納14日綜合外電報導）西班牙北部班普羅納市（Pamplona）知名年度聖佛明節（SanFermin）奔牛活動今天結束，最後一天再添3人遭牛角刺傷，使得今年為期8天活動總計8人被牛角頂傷。</p>
+<p>法新社報導，今年遭牛角刺傷而住院的參加者當中，有一名美國人是在自拍時頸部遭刺。</p>
+<p>衛生單位表示，今天受傷的3名男性有2名為27和30歲的澳洲人，和一名來自馬德里的25歲西班牙人。他們是被一頭重達半公噸、名為「拉波內洛」（Rabonero）的鬥牛頂傷，受傷部位包括腋下、手臂和腿。</p>
+<p>拉波內洛是本屆奔牛節使用的6頭鬥牛中最重的一頭。牠今天在開跑後不久便脫離牛群，並開始沿途攻擊人。落單的鬥牛較容易失去方向，而開始朝人頂撞。</p>
+<p>活動使用的鬥牛來自西班牙西南部塞維亞省（Seville）知名鬥牛牧場繆拉（Miura）。今天牛群以2分45秒速度跑完從圍欄到市區鬥牛場的路程，全長848.6公尺，途經這個中古城市狹窄蜿蜒的道路。</p>
+<p>今年除了8人遭牛角頂傷，另有27人在奔牛過程中因骨折或擦傷而送醫。（譯者：張正芊/核稿：林治平）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T144216</FirstCreated>
+          <ThisRevisionCreated>20190714T144216</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0200" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0200">
+              <DateLine>20190714T144216</DateLine>
+              <Author>楊明珠</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>東京連日陰雨 17天日照不足3小時</HeadLine>
+                     <SlugLine>日本東部與北部的
+太平洋側6月底以來兩個多星期多半陰雨天，東京市中
+心到昨天為止連續17天日照時數不足3小時，是31年來
+首見。
+
+    日本放送協會（NHK）報導，氣象廳表示，受到鄂
+霍次克海高氣壓等因素影響，日本東部與北部的太平洋
+側地區上空有濕氣流入，自6月底以來多日陰雨。東京 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>東京連日陰雨 17天日照不足3小時</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者楊明珠東京14日專電）日本東部與北部的太平洋側6月底以來兩個多星期多半陰雨天，東京市中心到昨天為止連續17天日照時數不足3小時，是31年來首見。</p>
+<p>日本放送協會（NHK）報導，氣象廳表示，受到鄂霍次克海高氣壓等因素影響，日本東部與北部的太平洋側地區上空有濕氣流入，自6月底以來多日陰雨。東京市中心從6月27日到7月13日為止，連續17天日照時數不滿3小時。</p>
+<p>氣象廳表示，預估日本北部與東部的太平洋側今後約一週也是陰雨天較多，日照時數比往年少、氣溫也比往年低，呼籲農民持續做好農作物的管理。</p>
+<p>「產經新聞」報導，今年7月持續出現創紀錄的低溫，讓民眾感受不到初夏的感覺，這樣的天候讓遊樂設施或零售店生意受影響。</p>
+<p>位於東京都練馬區的遊樂園「豐島園」游泳池6月29日開始營業，受到天候不佳的影響，生意大受打擊。7月4至7日的遊客僅約900人，相較於去年同期約1萬9000人，減少了95%。</p>
+<p>有的百貨公司從6月底舉辦春夏季服飾大拍賣，受天候影響，生意冷清。有業者表示，夏天用的寢具、水羊羹、果凍等有清涼感的甜點售況不佳，反倒是溫熱的食品銷路不錯。</p>
+<p>氣溫只要差一度，清涼飲料的營業額就會差好幾個百分點。飲料大廠麒麟（Kirin）Beverage社長堀口英樹表示，今年6月的生意不佳，6月單月份銷路是去年同月的92%。</p>
+<p>日照不足、雨天多，使蔬菜價格上揚，出貨量減少。從事青果批發的「東京青果」表示，小黃瓜、茄子的價格上揚，青椒、番茄出貨量減少，今後蔬菜價格可能飆漲，農民勢必要做調整，考慮讓收成期往後延等。此外，東北地方的水稻可能受到冷害影響，農林水產省表示會多加關注。（編輯：郭中翰）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T140816</FirstCreated>
+          <ThisRevisionCreated>20190714T140816</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0197" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0197">
+              <DateLine>20190714T140816</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>歐美關係緊張 法國國慶閱兵秀歐陸軍事合作力量</HeadLine>
+                     <SlugLine>今天是法國國慶日，
+總統馬克宏在有歐洲重要國家領袖出席的年度國慶閱兵
+大典上試圖展現歐陸軍事合作力量、回應與傳統盟友美
+國日益緊張的關係。
+
+    今天出席閱兵式的包括德國總理梅克爾、荷蘭總理
+呂特（Mark Rutte）和葡萄牙總統德索沙（Marcelo 
+Rebelo de So ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>歐美關係緊張 法國國慶閱兵秀歐陸軍事合作力量</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社巴黎14日綜合外電報導）今天是法國國慶日，總統馬克宏在有歐洲重要國家領袖出席的年度國慶閱兵大典上試圖展現歐陸軍事合作力量、回應與傳統盟友美國日益緊張的關係。</p>
+<p>今天出席閱兵式的包括德國總理梅克爾、荷蘭總理呂特（Mark Rutte）和葡萄牙總統德索沙（MarceloRebelo de Sousa）等。英國則由首相梅伊的實際副手李登頓（David Lidington）代表出席。</p>
+<p>馬克宏先是站在軍車上、在摩托車隊和騎兵隊伴隨下，沿著香榭麗舍大道抵達閱兵式舉行現場，接著與其他貴賓一同觀禮。</p>
+<p>參加閱兵的包括來自法國外籍兵團、今年10月成立滿30週年的德法混合旅和其他歐洲國家部隊的大約4300名官兵、200輛軍車，以及超過100架軍機。佩掛獎章的軍犬也不缺席。</p>
+<p>各式高科技軍備是閱兵式焦點，包括無人機、微型自動駕駛器，以及由真人配戴展示的反無人機槍枝。</p>
+<p>其中，法國發明家和企業家沙帕塔（FrankyZapata）親自上陣，手持步槍展演他所開發充滿未來感的飛行滑板（flyboard）各種應用可能性，在香榭麗舍大道上空飛來盪去，贏得在場貴賓一陣喝采。</p>
+<p>根據沙帕塔公司官網的資料，使用渦輪引擎的飛行滑板起飛後，目前實測最高時速可達140公里，最高飛行高度為150公尺，一次可飛行約6分鐘，載重極限為100公斤。</p>
+<p>馬克宏在閱兵式前發布的國慶文告中指出，期待閱兵式能凸顯法國堅定不移鞏固本國與歐洲安全的決心。</p>
+<p>馬克宏表示：「自第二次世界大戰結束以來，歐洲從未如此重要過。與大西洋聯盟聯合建立具防衛能力的歐洲…是法國的優先要務。這就是閱兵式的主軸。」</p>
+<p>「共同行動及強化集體行動能力是歐洲干預倡議（European Intervention Initiative）和其他歐洲重點計畫所欲處理的挑戰之一。」</p>
+<p>不過，馬克宏今天仍遭遇內政挑戰：數名「黃背心」反對運動支持者對他喝倒采。</p>
+<p>法新社援引消息人士所述報導，到場抗議的「黃背心」代表人物羅德里格斯（Jerome Rodrigues）和尼科爾（Maxime Nicolle）皆遭警方拘留。（譯者：陳韻聿/核稿：林治平）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T134416</FirstCreated>
+          <ThisRevisionCreated>20190714T134416</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0195" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0195">
+              <DateLine>20190714T134416</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>川普突擊逮捕無證移民 移民害怕市長憂心</HeadLine>
+                     <SlugLine>美國數以千計無證移
+民，在今天的全國突擊前在恐懼及不確定性中等待，總
+統川普說，這會導致一波驅逐。數名市長公開表示關切
+，認為這將讓移民心生恐懼，未來更不願配合執法。
+
+    法新社報導，數十座城市有示威者上街抗議這項突
+擊計畫，地方和州官員呼籲聯邦政府節制，但徒勞無功
+。
+
+  ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>川普突擊逮捕無證移民 移民害怕市長憂心</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社紐約14日綜合外電報導）美國數以千計無證移民，在今天的全國突擊前在恐懼及不確定性中等待，總統川普說，這會導致一波驅逐。數名市長公開表示關切，認為這將讓移民心生恐懼，未來更不願配合執法。</p>
+<p>法新社報導，數十座城市有示威者上街抗議這項突擊計畫，地方和州官員呼籲聯邦政府節制，但徒勞無功。</p>
+<p>自今天清晨起，美國移民暨海關執法局（ICE）人員料將在至少10個美國大城市街道上展開突擊，並計劃逮捕約2000名最近抵達美國的無證移民。</p>
+<p>川普上個月首次提到這項突擊，隨後將計畫推遲，而行動規模似乎比那時承諾逮捕並驅逐「數以百萬計」人小很多。</p>
+<p>即便如此，擔心自己可能遭鎖定的移民並沒有因此減輕痛苦。特別是媒體報導說，海關執法局官員不只準備驅逐被清除令鎖定者，連被當局碰上的其他無證移民也將面臨池魚之殃，更加深他們的恐懼。這可能包括已在美國待了多年、已經成家立業的移民。</p>
+<p>芝加哥市長萊特夫特（Lori Lightfoot）告訴美國有線電視新聞網（CNN）：「這種不確定性跟恐懼正在引發混亂，讓人們受到創傷。」</p>
+<p>川普12日堅稱「大多數市長」支持突擊，因為「他們不希望自己的城市有犯罪」，並重申自己經常言及卻不正確的說法，即移民比美國出生者更容易犯罪。</p>
+<p>數名市長對聯邦政府這項行動表示關切。部分城市官員及親移民的民權團體尋求教育可能遭鎖定者，如何在突擊時保障自己的權益。</p>
+<p>喬治亞州亞特蘭大市長波托斯（Keisha Bottoms）告訴CNN：「我們正在要求民眾，如果你擔心被遣返，今天待在室內或集體行動。如果有人到你家門前，除非對方有搜索令，否則不要開門。」</p>
+<p>紐約市長白思豪（Bill de Blasio）告訴微軟國家廣播公司（MSNBC），他將突擊視為「為說服許多美國民眾移民是問題，所採取的政治行動」。</p>
+<p>他和許多城市官員一樣擔心這項積極逮捕行動可能將嚇到移民，讓他們在未來更不願意配合地方警察執法，因而更難以確保公眾安全。（譯者：侯文婷/核稿：陳政一）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T133516</FirstCreated>
+          <ThisRevisionCreated>20190714T133516</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0193" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0193">
+              <DateLine>20190714T133516</DateLine>
+              <Author>黃自強</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>星國亞太大專華語辯論賽  東吳奪冠世新季軍</HeadLine>
+                     <SlugLine>新加坡第9屆亞
+太大專華語辯論公開賽，來自台灣的東吳大學、世新大
+學與亞太地區各大學經過連日來脣槍舌戰，東吳大學最
+終奪冠，世新大學獲季軍。
+
+    東吳大學辯士林聖偉同時在冠亞軍賽中，獲得單場
+、全場最佳辯論員。世新大學辯士關閎文則在季殿賽中
+，獲單場最佳辯論員。
+
+    第 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>星國亞太大專華語辯論賽  東吳奪冠世新季軍</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者黃自強新加坡14日專電）新加坡第9屆亞太大專華語辯論公開賽，來自台灣的東吳大學、世新大學與亞太地區各大學經過連日來脣槍舌戰，東吳大學最終奪冠，世新大學獲季軍。</p>
+<p>東吳大學辯士林聖偉同時在冠亞軍賽中，獲得單場、全場最佳辯論員。世新大學辯士關閎文則在季殿賽中，獲單場最佳辯論員。</p>
+<p>第9屆亞太大專華語辯論公開賽今天決賽，共有來自亞太等地區24所大學參賽，從10日到14日在南洋理工大學一較高下。世新大學與東吳大學分別代表台灣參賽。</p>
+<p>由東吳大學「正言社」辯士胡善詠、林聖偉、劉晴瑄、呂沂洋、劉岳軒組成的隊伍，今天在決賽中遭遇馬來西亞理科大學（總院校），雙方針對「怕輸精神是新加坡人的財富/負擔」辯題展開激烈交鋒。</p>
+<p>世新大學辯論隊辯士關閎文、李晨暘、葉容君、周孟璇、王悅榕在季軍賽遭遇新加坡國立大學，就「當代年輕人應該/不應該在人生排序裡把自己放在第一位」進行辯論。</p>
+<p>東吳大學辯士林聖偉今天告訴中央社記者，東吳大學於2017年曾參與亞太大專華語辯論公開賽，結果拿到季軍，今年捲土重來，幸運地憑藉天時、地利與人和，一路過關斬將打進決賽，最終拿到冠軍。彌補當年參賽未能奪冠的遺憾。</p>
+<p>林聖偉指出，透過這次參賽與對手交流經驗，提升彼此思辨能力，也希望把這座冠軍獎盃帶回台灣後，讓辯論教育種子持續開花。</p>
+<p>世新大學辯士關閎文受訪表示，他們都是對辯論懷抱夢想的辯士，這次參賽對手實力強勁，每場都打得很辛苦。他指出，這次拿到季軍，也感謝教練陳嘉豪、張正忻與呂哲海等人對論點強化、技術指導與攻防鋪陳的提點。</p>
+<p>第9屆亞太大專華語辯論公開賽由南洋理工大學中文學會主辦。今年共有來自新加坡、台灣、馬來西亞、中國、澳門、香港與澳洲等24所大學的131名辯士參與賽事。（編輯：施燕飛）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T133016</FirstCreated>
+          <ThisRevisionCreated>20190714T133016</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0192" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0192">
+              <DateLine>20190714T133016</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>尼泊爾雨季洪患嚴重 至少50人喪命</HeadLine>
+                     <SlugLine>尼泊爾官員今天
+表示，雨季豪雨在尼泊爾各地引發洪水和土石流，已奪
+走至少50人性命並造成數十人失蹤。
+
+    印度東北地區也遭受洪災，許多河流泛濫，造成11
+人喪命。
+
+    從11日開始的豪雨襲擊尼泊爾不少地區，尤其是東
+部地區和南部平原，造成數以千計民眾受害。
+
+     ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>尼泊爾雨季洪患嚴重 至少50人喪命</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社加德滿都14日綜合外電報導）尼泊爾官員今天表示，雨季豪雨在尼泊爾各地引發洪水和土石流，已奪走至少50人性命並造成數十人失蹤。</p>
+<p>印度東北地區也遭受洪災，許多河流泛濫，造成11人喪命。</p>
+<p>從11日開始的豪雨襲擊尼泊爾不少地區，尤其是東部地區和南部平原，造成數以千計民眾受害。</p>
+<p>尼泊爾警方發言人波可哈瑞（Bishwaraj Pokharel）表示，逾1100人獲救，但仍有33人失蹤。</p>
+<p>波可哈瑞告訴法新社：「我們已動用全國所有資源，進行搜救和救災，能夠進入所有災區。」</p>
+<p>當局表示河流水位料將於明天恢復正常。（實習編譯：鄒玟諠/核稿：林治平）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T130415</FirstCreated>
+          <ThisRevisionCreated>20190714T130415</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0191" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0191">
+              <DateLine>20190714T130415</DateLine>
+              <Author>陳妍君</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>菲國掃毒戰死亡人數 官方出現不同版本</HeadLine>
+                     <SlugLine>因菲律賓掃毒戰
+身亡的人數眾說紛紜，官方數字也出現多個版本，總統
+府日前說，截至5月底，有5489人因掃毒戰身亡；警方
+公布數字則顯示，截至5月底約6600名涉毒嫌犯被殺。
+
+    馬尼拉當局掃毒戰備受爭議，在冰島提案下，聯合
+國人權理事會（UNHRC）11日決議，將對菲國掃毒戰發
+ ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>菲國掃毒戰死亡人數 官方出現不同版本</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者陳妍君馬尼拉14日專電）因菲律賓掃毒戰身亡的人數眾說紛紜，官方數字也出現多個版本，總統府日前說，截至5月底，有5489人因掃毒戰身亡；警方公布數字則顯示，截至5月底約6600名涉毒嫌犯被殺。</p>
+<p>馬尼拉當局掃毒戰備受爭議，在冰島提案下，聯合國人權理事會（UNHRC）11日決議，將對菲國掃毒戰發表全面性報告。</p>
+<p>綜合菲律賓媒體報導，對此，菲律賓總統府通訊暨作業部（PCOO）次長巴納厄（Marie Rafael Banaag）回應，聯合國人權事務高級專員巴舍萊（MichelleBachelet）和冰島外交部長索達生（Gudlaugur ThorThordarson）引用「不公正的估計（數字）」對菲國掃毒戰敲響警鐘。</p>
+<p>她表示，官方資料庫「菲律賓真實數字」（#RealNumbersPH）數據顯示，截至今年5月底，有5489人因掃毒戰身亡。</p>
+<p>巴納厄說，巴舍萊和索達生估計，掃毒戰發動以來，高達2萬7000名菲律賓人被殺，這個數字「籠統且毫無根據」，可能錯誤引用菲律賓官方統計數字。</p>
+<p>菲律賓最高法院去年4月2日決議，根據杜特蒂政府2017年終報告，2016年7月到2017年11月27日，有3967名涉毒嫌犯被殺；2016年7月到2017年9月27日，共有1萬6355起殺人案，合計掃毒戰期間，已有2萬322人身亡，因此要求杜特蒂政府解釋，掃毒戰造成這麼多人死亡的原因。</p>
+<p>對於最高法院質疑總統府數據，菲國總統府通訊暨作業部次長郭洛平（Ramon L. Cualoping III）今天發表聲明說，這1萬6355起殺人案起因可能是行車糾紛、土地糾紛、商業競爭、家庭糾紛、三角關係、情殺或政治因素，未必與毒品有關。</p>
+<p>他表示，如同巴納厄所強調的，外部機構引用的數字計算方式並不準確，數據經過扭曲「使杜特蒂政府、這個國家及我們所有人失去外界信任」。</p>
+<p>不過，菲律賓國家警察總署（PNP）6月公布教據表示，2016年7月到今年5月底，約6600名涉毒嫌犯被殺，與總統府公布數字也有出入。</p>
+<p>菲律賓總統杜特蒂（Rodrigo Duterte）於2016年6月30日上任。</p>
+<p>國際特赦組織（Amnesty International）8日公布調查報告時指出，由於菲國掃毒戰的隱密性，外界無從得知因掃毒戰遭殺害的確切人數。（編輯：施燕飛）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T130215</FirstCreated>
+          <ThisRevisionCreated>20190714T130215</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0189" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0189">
+              <DateLine>20190714T130215</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>伊朗為槓美違反核協議 法憂心恐引爆戰爭</HeadLine>
+                     <SlugLine>法國外交部長勒德里
+安今天說，美國退出伊朗與世界強權達成的核協議後，
+伊朗提高濃縮鈾純度至超出上限，違反核協議，是對美
+國做出糟糕決定後的糟糕反應，法國憂心將引發戰事。
+
+    華府將數起油輪遭攻擊事件歸咎於伊朗所為，再加
+上伊朗擊落一架美國無人偵察機，使得雙方緊張關係升
+溫。美國無 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>伊朗為槓美違反核協議 法憂心恐引爆戰爭</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社巴黎14日綜合外電報導）法國外交部長勒德里安今天說，美國退出伊朗與世界強權達成的核協議後，伊朗提高濃縮鈾純度至超出上限，違反核協議，是對美國做出糟糕決定後的糟糕反應，法國憂心將引發戰事。</p>
+<p>華府將數起油輪遭攻擊事件歸咎於伊朗所為，再加上伊朗擊落一架美國無人偵察機，使得雙方緊張關係升溫。美國無人機遭擊落，甚至促使美國總統川普下令空襲伊朗，但在發動前數分鐘喊卡。</p>
+<p>勒德里安（Jean-Yves Le Drian）被問及中東是否可能發生廣泛戰事說：「情勢很嚴峻，緊張升高可能引發意外。」</p>
+<p>勒德里安出席法國國慶日在巴黎舉行的年度閱兵典禮時說：「伊朗決定撤回關於核武擴散的部分承諾，更令人憂心。這是糟糕的決定，是對美國一年前退出伊朗核協議的糟糕決定的糟糕反應。」</p>
+<p>他說：「沒人希望發生戰爭，我注意到大家都表示，不希望情勢惡化，伊朗總統羅哈尼（Rouhani）不想，川普不想，波斯灣各國領袖也是。但令人憂心的是情勢已經惡化。」</p>
+<p>勒德里安表示：「伊朗撤回（核協議中的）承諾將毫無好處，伊朗若取得核武，美國也毫無好處。重要的是採取減緩情勢措施，以緩和緊張狀況。」（譯者：蔡佳伶/核稿：林治平）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T112814</FirstCreated>
+          <ThisRevisionCreated>20190714T112814</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0172" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0172">
+              <DateLine>20190714T112814</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>男子帶步槍襲移民拘留中心 遭美警擊斃</HeadLine>
+                     <SlugLine>當局表示，一名武
+裝男子以縱火裝置攻擊美國西北部城市塔科馬的移民拘
+留中心，在與警方起衝突後遭擊斃。
+
+    市警局發表聲明指出，傳出一名攜帶步槍的男子對
+一部車輛放火，並企圖點燃一個丙烷槽後，警方在昨天
+早上抵達塔科馬（Tacoma）西北拘留中心。
+
+    警方表示，男子除了攜 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>男子帶步槍襲移民拘留中心 遭美警擊斃</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社洛杉磯14日綜合外電報導）當局表示，一名武裝男子以縱火裝置攻擊美國西北部城市塔科馬的移民拘留中心，在與警方起衝突後遭擊斃。</p>
+<p>市警局發表聲明指出，傳出一名攜帶步槍的男子對一部車輛放火，並企圖點燃一個丙烷槽後，警方在昨天早上抵達塔科馬（Tacoma）西北拘留中心。</p>
+<p>警方表示，男子除了攜帶武器，還帶有照明燈和背包，在警方抵達現場後遭擊斃。</p>
+<p>警方公布男子身分是69歲的斯普朗森（Willem VanSpronsen）。</p>
+<p>移民一直是引發美國政治分歧的議題，美國這一年多來疲於解決與墨西哥交界邊境的移民危機，每月仍有來自中美洲的數千名移民前往美國。（譯者：蔡佳伶/核稿：陳政一）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T102014</FirstCreated>
+          <ThisRevisionCreated>20190714T102014</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0165" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0165">
+              <DateLine>20190714T102014</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>前孟加拉獨裁者過世 厄夏德享壽89歲</HeadLine>
+                     <SlugLine>孟加拉官員表示，前
+軍事獨裁者厄夏德（Hussain Muhammad Ershad）住進
+首都達卡一家醫院數週後，於今天過世，享壽89歲。
+
+    厄夏德將軍統治孟加拉近10年，在1990年代爭取民
+主浪潮高漲之際被趕下台，曾因貪腐罪名入獄多年。
+
+    厄夏德在孟加拉國家黨（J ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>前孟加拉獨裁者過世 厄夏德享壽89歲</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社達卡14日綜合外電報導）孟加拉官員表示，前軍事獨裁者厄夏德（Hussain Muhammad Ershad）住進首都達卡一家醫院數週後，於今天過世，享壽89歲。</p>
+<p>厄夏德將軍統治孟加拉近10年，在1990年代爭取民主浪潮高漲之際被趕下台，曾因貪腐罪名入獄多年。</p>
+<p>厄夏德在孟加拉國家黨（Jatiya Party）的長期老同志、國會議員拉希德（Kazi Firoz Rashid）告訴法新社，高齡的厄夏德因為併發症過世。軍方發言人柴德（Abdullah bin Zaid）確認了厄夏德的死訊。</p>
+<p>厄夏德1982年擔任軍方首長時發動不流血政變，推翻民選政府後掌握政權。</p>
+<p>他統治時期最著名的是作出爭議性決定，讓這個穆斯林占多數的國家以伊斯蘭教為國教。</p>
+<p>喜愛作詩的厄夏德1996年在獄中告訴記者，他「最大的失敗…是懷抱詩人的心，寬大治理國家」。</p>
+<p>儘管揹負許多不利案件，但國家黨在1990年代成為孟加拉第3大政治勢力後，厄夏德成為孟加拉政壇權力要角之一。</p>
+<p>現任總理哈希納（Sheikh Hasina）和主要反對黨領袖吉亞（Khaleda Zia）當年聯手推翻厄夏德，但她們兩人後來成為激烈競爭對手，哈希納政府指控吉亞貪污，她去年被判處10年徒刑。</p>
+<p>厄夏德則變成哈希納關鍵盟友，他在孟加拉北部的家鄉一直有高人氣，曾連續6次選上國會議員。（譯者：李晉緯/核稿：林治平）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T100813</FirstCreated>
+          <ThisRevisionCreated>20190714T100813</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0160" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0160">
+              <DateLine>20190714T100813</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>印尼東部遭規模7.3強震襲擊 尚未傳出傷亡</HeadLine>
+                     <SlugLine>美國地質調查所表
+示，印尼東部摩鹿加群島（Moluccas）干那低（
+Ternate）東南今天遭到規模7.3強烈地震襲擊。
+
+    根據美國地質調查所，這起強震震央位於干那低南
+南東方168公里，震源深度10公里。
+
+    目前尚未立即傳出傷亡與災損。（譯者：陳政一）
+10807 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>印尼東部遭規模7.3強震襲擊 尚未傳出傷亡</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社新加坡14日綜合外電報導）美國地質調查所表示，印尼東部摩鹿加群島（Moluccas）干那低（Ternate）東南今天遭到規模7.3強烈地震襲擊。</p>
+<p>根據美國地質調查所，這起強震震央位於干那低南南東方168公里，震源深度10公里。</p>
+<p>目前尚未立即傳出傷亡與災損。（譯者：陳政一）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+</NewsML>

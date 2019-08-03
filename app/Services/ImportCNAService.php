@@ -8,79 +8,96 @@ use Illuminate\Support\ServiceProvider;
 
 class ImportCNAService
 {
+	public function checkTargetStrValidation($targetStr){
+		$rn = "<br>\r\n";
+		echo $targetStr.$rn;
+		$keywordList = array("習近平","習大大","習大","習皇帝","習包子","小熊維尼","藏獨","疆獨","台獨","港獨","達賴","法輪功","宗教迫害","六四","坦克人","六月四日","天安門");
+		$result = true;
+		$size = count($keywordList);
+		for($i=0; $i<$size; $i++) {
+			if (strpos($targetStr, $keywordList[$i]) !== false) {
+				echo $keywordList[$i].$rn;
+				$result = false;
+				break;
+			}
+		}
+		echo $result.$rn;
+		return $result;
+	}
+
 	public function getList(){
 		$list = array();
 		$list = array(
-                'business' => [
-                    'image'=>['2952523'],
-                    'url'=>[
-                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_business_cn.xml",
-                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_business_int.xml",
-                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_business_tw.xml"
-                        ]
-                    ],
+//                'business' => [
+//                    'image'=>['2952523'],
+//                    'url'=>[
+//                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_business_cn.xml",
+//                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_business_int.xml",
+//                       "http://rss.cna.com.tw/client/nownews/cfp/article_feed_business_tw.xml"
+//                        ]
+//                    ],
                 'china' => [
-                    'image'=>['2952517'],
+                    'image'=>['3314937','3314938','3314940','3314941','3314942','3314375','3314392','3314937','3314938','3314940','3314941','3314942','3314375','3314392','3314937','3314938','3314940','3314941','3314942','3314375','3314392'],
                     'url'=>[
                         "http://rss.cna.com.tw/client/nownews/cfp/article_feed_china.xml"
                         ]
                     ],
-                'health' => [
-                    'image'=>['2952524'],
-                    'url'=>[
-                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_health.xml"
-                        ]
-                    ],
+//                'health' => [
+//                    'image'=>['2952524'],
+//                    'url'=>[
+//                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_health.xml"
+//                        ]
+//                    ],
                     'int' => [
-                        'image'=>['2952525'],
+                        'image'=>['3314937','3314938','3314940','3314941','3314942','3314375','3314392','3314937','3314938','3314940','3314941','3314942','3314375','3314392','3314937','3314938','3314940','3314941','3314942','3314375','3314392'],
                         'url'=>[
                         "http://rss.cna.com.tw/client/nownews/cfp/article_feed_int.xml"
                         ]
                     ],
-                    'life' => [
-                        'image'=>['2952515'],
-                        'url'=>[
-                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_life.xml"
-                        ]
-                    ],
-                    'local' => [
-                        'image'=>['2952516'],
-                        'url'=>[
-                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_local.xml"
-                        ]
-                    ],
-                    'politics' => [
-                        'image'=>['2952519'],
-                        'url'=>[
-                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_politics.xml"
-                        ]
-                    ],
+//                    'life' => [
+//                        'image'=>['2952515'],
+//                        'url'=>[
+//                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_life.xml"
+//                        ]
+//                    ],
+//                    'local' => [
+//                        'image'=>['2952516'],
+//                        'url'=>[
+//                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_local.xml"
+//                        ]
+//                    ],
+//                    'politics' => [
+//                       'image'=>['2952519'],
+//                        'url'=>[
+//                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_politics.xml"
+//                        ]
+//                    ],
                     'society' => [
-                        'image'=>['2952518'],
+                        'image'=>['3314937','3314938','3314940','3314941','3314942','3314375','3314392'],
                         'url'=>[
                         "http://rss.cna.com.tw/client/nownews/cfp/article_feed_society.xml"
                         ]
                     ],
-                    'sports' => [
-                        'image'=>['2952526'],
-                        'url'=>[
-                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_sports_cn.xml",
-                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_sports_int.xml",
-                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_sports_tw.xml"
-                        ]
-                    ],
-                    'stars' => [
-                        'image'=>['2952521'],
-                        'url'=>[
-                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_stars.xml"
-                        ]
-                    ],
-                    'tech' => [
-                        'image'=>['2952520'],
-                        'url'=>[
-                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_tech.xml"
-                        ]
-                    ],
+//                    'sports' => [
+//                       'image'=>['2952526'],
+//                       'url'=>[
+//                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_sports_cn.xml",
+//                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_sports_int.xml",
+//                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_sports_tw.xml"
+//                        ]
+//                    ],
+//                    'stars' => [
+//                        'image'=>['2952521'],
+//                        'url'=>[
+//                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_stars.xml"
+//                        ]
+//                    ],
+//                   'tech' => [
+//                        'image'=>['2952520'],
+//                        'url'=>[
+//                        "http://rss.cna.com.tw/client/nownews/cfp/article_feed_tech.xml"
+//                        ]
+//                    ],
 			);
 		return $list;
 	}
@@ -91,6 +108,7 @@ class ImportCNAService
 		foreach ($cna_list as $feedsCate => $feedsParam) {
 			foreach ($feedsParam['url'] as $feedsUrl) {
 				$cna_xml = file_get_contents("$feedsUrl");
+				file_put_contents("CNA_".$feedsCate.".txt", $cna_xml);
 				$xml = simplexml_load_string($cna_xml, 'SimpleXMLElement', LIBXML_NOCDATA);
 				if(!$xml){
 					echo "Error: Cannot create object".$rn;
@@ -164,18 +182,42 @@ class ImportCNAService
 					// 	echo $status."==".$rn;
 					// 	//break;
 					// }
-
 					$title = mb_substr($value->NewsComponent->NewsComponent->NewsComponent->NewsLines->HeadLine, 0, 26, 'utf8');
+					// $title .= $title . '.';
+echo "check title";
+					$titleResult = $this->checkTargetStrValidation($title);
 					$key = 'body.content';
 					$description_content = null;
 					$description = $value->NewsComponent->NewsComponent->NewsComponent->ContentItem->DataContent->nitf->body->$key->p;
+echo "check des";		
+					$descriptionResult = $this->checkTargetStrValidation($description);
+					$publishStatus = "publish";
+					if (!$titleResult || !$descriptionResult) {
+						$publishStatus = "draft";
+					}
+					echo $publishStatus.$rn;
 					foreach ($description as $value){
 						$description_content .= "<p>".htmlspecialchars($value,ENT_QUOTES)."</p>";
 					}
 					//echo $description_content.$rn;
 
 
-					$wp_post = "wp post create --allow-root --path=\"/var/www/html\" --post_type=post --post_author=4 --post_category=14 --post_date=\"".$pubdateFormat."\" --meta_input='{\"byline\":\"中央社\"}' --post_title=\"".htmlspecialchars($title,ENT_QUOTES)."\" --post_status=publish --post_content=\"".$description_content."\" --porcelain";
+					if ($feedsUrl === "http://rss.cna.com.tw/client/nownews/cfp/article_feed_society.xml") {
+						$wp_post = "wp post create --allow-root --path=\"/var/www/html\" --post_type=post --post_author=4 --post_category=14,4 --post_date=\"".$pubdateFormat."\" --meta_input='{\"byline\":\"中央社\"}' --post_title=\"".htmlspecialchars($title,ENT_QUOTES)."\" --post_status=\"".$publishStatus."\" --post_content=\"".$description_content."\" --porcelain";
+					}
+					elseif($feedsUrl === "http://rss.cna.com.tw/client/nownews/cfp/article_feed_china.xml") {
+						$wp_post = "wp post create --allow-root --path=\"/var/www/html\" --post_type=post --post_author=4 --post_category=14,97 --post_date=\"".$pubdateFormat."\" --meta_input='{\"byline\":\"中央社\"}' --post_title=\"".htmlspecialchars($title,ENT_QUOTES)."\" --post_status=\"".$publishStatus."\" --post_content=\"".$description_content."\" --porcelain";
+					}
+					elseif($feedsUrl === "http://rss.cna.com.tw/client/nownews/cfp/article_feed_int.xml") {
+                                                $wp_post = "wp post create --allow-root --path=\"/var/www/html\" --post_type=post --post_author=4 --post_category=14,7 --post_date=\"".$pubdateFormat."\" --meta_input='{\"byline\":\"中央社\"}' --post_title=\"".htmlspecialchars($title,ENT_QUOTES)."\" --post_status=\"".$publishStatus."\" --post_content=\"".$description_content."\" --porcelain";
+                                        }
+					elseif($feedsUrl === "http://rss.cna.com.tw/client/nownews/cfp/article_feed_politics.xml") {
+                                                $wp_post = "wp post create --allow-root --path=\"/var/www/html\" --post_type=post --post_author=4 --post_category=14,1 --post_date=\"".$pubdateFormat."\" --meta_input='{\"byline\":\"中央社\"}' --post_title=\"".htmlspecialchars($title,ENT_QUOTES)."\" --post_status=\"".$publishStatus."\" --post_content=\"".$description_content."\" --porcelain";
+                                        }
+					else {
+						$wp_post = "wp post create --allow-root --path=\"/var/www/html\" --post_type=post --post_author=4 --post_category=14 --post_date=\"".$pubdateFormat."\" --meta_input='{\"byline\":\"中央社\"}' --post_title=\"".htmlspecialchars($title,ENT_QUOTES)."\" --post_status=\"".$publishStatus."\" --post_content=\"".$description_content."\" --porcelain";
+					}
+
 					$createPost = shell_exec("$wp_post");
 					if($createPost){
 						DB::insert('insert into cna_feed (guid) values (?)', [$uniqKey]);
@@ -207,6 +249,10 @@ class ImportCNAService
 					// }
 
 					$cnaImagesObjectId = $feedsParam['image'][0];
+//					if ($feedsUrl === "http://rss.cna.com.tw/client/nownews/cfp/article_feed_society.xml") {
+						$randIndex = rand(0, 6);
+						$cnaImagesObjectId = $feedsParam['image'][$randIndex];
+//					} 
 					$cnaImagesObjectIds = [
 						"$cnaImagesObjectId"
 					];

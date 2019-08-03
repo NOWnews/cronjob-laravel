@@ -11,14 +11,14 @@ class ImportNOWService
 	public function getList(){
 		$list = array();
 		$list = array(
-			'bobee' => [
-			    'author'=>['196'],
-			    'name'=>['保庇'],
-			    'activity'=>['true'],
-			    'url'=>[
-			        "https://bobee.nownews.com/devnownews"
-			        ]
-			    ],
+//			'bobee' => [
+//			    'author'=>['196'],
+//			    'name'=>['保庇'],
+//			    'activity'=>['true'],
+//			    'url'=>[
+//			        "https://bobee.nownews.com/devnownews"
+//			        ]
+//			    ],
 			'sight' => [
 			    'author'=>['197'],
 			    'name'=>['今日觀點'],
@@ -62,7 +62,7 @@ class ImportNOWService
 					$sqlquery = DB::select("select * from now_feed where guid='$uniqKey'");
 					if($sqlquery){
 						echo "Feed exist".$rn;
-						continue;
+//						continue;
 					}
 
 					$pubdate = $value->pubDate;
@@ -71,7 +71,7 @@ class ImportNOWService
 					$pubdateFormat = date("Y-m-d H:i:s",$pubTime);
 					if($pubTime < $prevTime){
 						echo "Out of times".$rn;
-						continue;
+//						continue;
 					}
 					
 					if(isset($value->tags)){
@@ -123,7 +123,11 @@ class ImportNOWService
                                                                         $cat_num = '122';
                                                                 }else if($cat == '宗教藝術' || $cat == '原民信仰' || $cat == '原民傳說' || $cat == '民俗藝陣'){
                                                                         $cat_num = '123';
-                                                                }
+                                                                }else if($cat == '全台瘋媽祖'){
+									$cat_num = '161211';
+								}else {
+									$cat_num = '115';
+								}
                                                                 $cate .= $cat_num.",";
                                                         }
 							$cate = substr($cate,0,-1);
@@ -157,7 +161,7 @@ class ImportNOWService
 					echo $description.$rn;
 
 					$author = $feedsParam['author'][0];
-					$wp_post = "wp post create --allow-root --path=\"/var/www/html\" --post_type=post --post_author=\"".$author."\" --post_category=$cate --tags_input=\"".htmlspecialchars($keywords,ENT_QUOTES)."\" --post_date=\"".$pubdateFormat."\" --meta_input='{\"byline\":\"".$byline."\"}' --post_title=\"".htmlspecialchars($title,ENT_QUOTES)."\" --post_status=publish --post_content=\"".$description."\" --porcelain";
+					$wp_post = "wp post create --allow-root --path=\"/var/www/html\" --post_type=post --post_author=\"".$author."\" --post_category=$cate --tags_input=\"".htmlspecialchars($keywords,ENT_QUOTES)."\" --post_date=\"".$pubdateFormat."\" --meta_input='{\"byline\":\"".$byline."\"}' --post_title=\"".htmlspecialchars($title,ENT_QUOTES)."\" --post_status=draft --post_content=\"".$description."\" --porcelain";
 					$createPost = shell_exec("$wp_post");
 					if($createPost){
 						DB::insert('insert into now_feed (guid) values (?)', [$uniqKey]);

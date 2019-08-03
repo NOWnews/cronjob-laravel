@@ -1,0 +1,1921 @@
+<?xml version="1.0" ?>
+<NewsML>
+   <Catalog Href="http://www.feedpartner.net/catalog.MasterCatalog.xml" />
+   <NewsEnvelope>
+      <DateAndTime>20190715T064028</DateAndTime>
+      <NewsService FormalName="Thumbnail" link-url="http://www.cna.com.tw">http://rss.cna.com.tw/images/cna_logo_msn_165x35.png</NewsService>
+   </NewsEnvelope>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T045238</FirstCreated>
+          <ThisRevisionCreated>20190715T045238</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0105" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0105">
+              <DateLine>20190715T045238</DateLine>
+              <Author>繆宗翰</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>山東學伴案發酵  引中國網民仇外歧視</HeadLine>
+                     <SlugLine>山東大學傳出修訂留
+學生學伴計畫，要求一名男性外籍生與3名中國女學生
+組成學習小組，引發爭議。網路上充斥敵視留學生言論
+，陸媒則開始大量報導外籍人士在中國的違法行為。
+
+    有中國網民7月6日在網上爆料，指山東大學將「學
+伴項目」由不限性別的一對一配對，改為去年的每名
+留學生配3名 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>山東學伴案發酵  引中國網民仇外歧視</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者繆宗翰北京15日電）山東大學傳出修訂留學生學伴計畫，要求一名男性外籍生與3名中國女學生組成學習小組，引發爭議。網路上充斥敵視留學生言論，陸媒則開始大量報導外籍人士在中國的違法行為。</p>
+<p>有中國網民7月6日在網上爆料，指山東大學將「學伴項目」由不限性別的一對一配對，改為去年的每名留學生配3名「學伴」，且在報名表中特別強調性別，並將「結交外國異性友人」列為選項，表格頂端更用紅字註明「請同學們盡可能詳細認真的填寫，以便為你匹配心儀的學伴」。</p>
+<p>隨後，又有網民發文稱，山東大學一名來自辛巴威的博士生，去年遭遇車禍受傷骨折住院後，校方公開招募25名志願男學生，陪護這名博士生，照顧他起居飲食，協助他與醫生溝通等。</p>
+<p>兩次事件引起不少網民反感，認為校方措施明顯優待留學生。山東大學12日發表聲明，澄清學伴計畫不存在「1名男留學生對應3名女生」的情況，但坦承由於審核把關不嚴，導致報名表格中出現不當選項，部分措詞引發不良影響，為此致歉。</p>
+<p>至於「招募25名志願學生」一事，校方先是刪除網頁公告，隨後對外解釋，由於該研究生需要住院25天，所以才招募25名志願者，每人負責一天陪護。</p>
+<p>上述事件發生後，陸媒開始大量報導外籍人士在中國大陸違法卻被寬容對待的事件。例如，福建福州一名外籍學生在街頭與交警推擠，卻只受到「批評教育」；南京地鐵執法人員在檢查乘客在車廂內飲食時，僅口頭勸誡外籍人士，卻對中國民眾開罰等等。</p>
+<p>受到上述事件影響，中國大陸社群網站微博、通訊軟體微信間，近期開始大量流傳黑人留學生強暴中國學伴、傳染愛滋病等內容，敵視與歧視言論傾巢而出。</p>
+<p>中國外交部發言人華春瑩近日以中共中央黨校進修學員身分撰文表示，要利用中國作為安理會常任理事國制度性權力，為中小國家和發展中國家發言，「鞏固和擴大發展中國家利益和話語共同體」。</p>
+<p>不過，如今民間對於黑人留學生的歧視言論，似乎已然違背官方希望的「為中小國家和發展中國家發言」，以爭取話語權的構思。（編輯：翟思嘉）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T032136</FirstCreated>
+          <ThisRevisionCreated>20190715T032136</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0057" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0057">
+              <DateLine>20190715T032136</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>香港反送中警民暴力衝突  民陣強烈擔憂</HeadLine>
+                     <SlugLine>昨天晚上在香港沙田區的反送中
+示威出現暴力，警民都有人受傷，還有警察遭咬斷及夾
+斷手指。民主派平台民陣對於過去兩天發生的大規模警
+民衝突表達強烈擔憂，促港府積極回應示威者訴求。
+
+    香港自6月9日和16日兩次逾百萬人的大規模反對逃
+犯條例修訂遊行後，由於官方未回應包括撤回修例在內 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>香港反送中警民暴力衝突  民陣強烈擔憂</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北15日電）昨天晚上在香港沙田區的反送中示威出現暴力，警民都有人受傷，還有警察遭咬斷及夾斷手指。民主派平台民陣對於過去兩天發生的大規模警民衝突表達強烈擔憂，促港府積極回應示威者訴求。</p>
+<p>香港自6月9日和16日兩次逾百萬人的大規模反對逃犯條例修訂遊行後，由於官方未回應包括撤回修例在內的幾大訴求，以及港人對於未能享有普選累積的不滿，使抗爭持續；並在進入7月後，演變為闖入立法會議場、遊行深入九龍和新界地區等「遍地開花」的模式。</p>
+<p>13日在上水以及14日在沙田的示威，在警方晚間清場時都爆發衝突。根據香港警察的臉書專頁，上水遊行有多批暴力示威者使用鐵枝、疑似刺激性粉末等不同的武器及物品襲擊警察，導致多名警員受傷。</p>
+<p>沙田遊行的部分，綜合港媒報導，有20人受傷住院。警方表示，有最少10名警員受傷，包括一名遭咬斷手指，及另一名遭鉗夾斷手指；至今拘捕至少40人，涉嫌非法集結及襲警等。</p>
+<p>積極主張反送中的香港民間人權陣線今天在臉書發布聲明，認為13日、14日在各區的遊行已經造成傷害，而始作俑者是行政長官林鄭月娥。如果政府有心保護警員且不願見到市民在抗議中受傷，政府應積極回應市民在反送中運動的訴求。</p>
+<p>民陣認為，成立獨立調查委員會是回應訴求、平息民怨的最有效方法，否則這場運動終將會因為持續的警民衝突，造成無可挽回的人命傷亡。</p>
+<p>香港警方譴責暴力示威者襲擊警察，但也有民眾指責警察暴力襲擊示威者，民陣則對示威走向暴力衝突感到憂心。</p>
+<p>暴力衝突還給了中國鷹派官媒報導偏頗的理由，環球網今天刊文，針對13日港警在上水遊行被攻擊著重報導。</p>
+<p>不過，香港這波反送中抗議特色之一就是「無大台」，難有特定組織領袖能夠針對示威行為予以約束或引導。港警和民陣的呼籲，是否能獲得來自政府及示威者的自覺響應，值得觀察。（編輯：張淑伶）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T025535</FirstCreated>
+          <ThisRevisionCreated>20190715T025535</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0049" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0049">
+              <DateLine>20190715T025535</DateLine>
+              <Author>張謙</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>港反送中衝突有20人住院  逾40人被捕</HeadLine>
+                     <SlugLine>香港沙田昨天有「反送
+中」遊行，其後示威者與警方爆發衝突，事件造成20人
+受傷住院，警方拘捕了超過40人。
+
+    綜合本地媒體的報導，醫院管理局方面公布，到今
+早9時左右，有20人住院，其中兩人情況危殆、4人嚴重
+。
+
+    警務處處長盧偉聰對外公布，至少有10名警員在事
+件 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>港反送中衝突有20人住院  逾40人被捕</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者張謙香港15日電）香港沙田昨天有「反送中」遊行，其後示威者與警方爆發衝突，事件造成20人受傷住院，警方拘捕了超過40人。</p>
+<p>綜合本地媒體的報導，醫院管理局方面公布，到今早9時左右，有20人住院，其中兩人情況危殆、4人嚴重。</p>
+<p>警務處處長盧偉聰對外公布，至少有10名警員在事件中受傷，其中一人被咬斷一截手指；警方拘捕了超過40人，所有人涉及非法集結罪。</p>
+<p>網民昨天發起在新界沙田進行反對修訂逃犯條例遊行，訴求包括政府完全撤回相關草案，以及調查警方上月12日在立法會外驅散示威者是否濫權等。</p>
+<p>遊行結束後的晚上，示威者與警方在沙田市中心的商場爆發衝突，情況混亂，期間警方曾使用胡椒噴霧和警棍等。</p>
+<p>盧偉聰今早到醫院探望受傷警員時說，警方會對昨晚發生的事追究到底，又說近期多次反修例示威演變成警民衝突，情況每況愈下，已到「令人髮指」的地步。</p>
+<p>他又說，不想再見到暴力事件發生並導致受傷。</p>
+<p>政府發言人表示，昨天的和平示威遊行結束後，有部分示威者故意堵塞道路，以暴力襲擊警察，並肆意破壞社會安寧，政府強烈譴責這些違法行為，又指法治是香港的基石，社會絕不容忍這些暴力行為。</p>
+<p>泛民主派立法會議員尹兆堅今早在電台上說，在昨晚的衝突中，警員以盾牌、警棍等製造聲響，令不少市民及街坊驚慌，現場示威者其實只占少數；他認為警方的做法是「挑釁及製造混亂」。</p>
+<p>尹兆堅說同情前線警員的處境，因為責任在管理層，是管理層「令前線警員與市民發生衝突」。</p>
+<p>另一名泛民議員區諾軒說，造成當前的情況，是政府不回應反修例訴求所致，即沒有撤回修訂草案及調查警方有否濫權等。（編輯：張淑伶）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190715T021535</FirstCreated>
+          <ThisRevisionCreated>20190715T021535</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190715CFP0040" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190715CFP0040">
+              <DateLine>20190715T021535</DateLine>
+              <Author>張謙</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>傳辭任 港特首林鄭月娥：續為香港市民服務</HeadLine>
+                     <SlugLine>針對外傳香港行政長官
+（特首）林鄭月娥曾向北京中央請辭，特首辦公室發言
+人今天接受中央社記者查詢時說：「行政長官仍然有熱
+誠和承擔為香港市民服務。」
+
+    英國金融時報早前引述知情者報導，林鄭月娥過去
+數週曾數度提出請辭，但遭北京拒絕。
+
+    上月起，港府修訂逃犯條例的決定引 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>傳辭任 港特首林鄭月娥：續為香港市民服務</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者張謙香港15日電）針對外傳香港行政長官（特首）林鄭月娥曾向北京中央請辭，特首辦公室發言人今天接受中央社記者查詢時說：「行政長官仍然有熱誠和承擔為香港市民服務。」</p>
+<p>英國金融時報早前引述知情者報導，林鄭月娥過去數週曾數度提出請辭，但遭北京拒絕。</p>
+<p>上月起，港府修訂逃犯條例的決定引發連場遊行及示威，示威者和警方多次爆發激烈衝突，期間外界關注林鄭月娥會否為此下台。（編輯：翟思嘉）1080715</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T155917</FirstCreated>
+          <ThisRevisionCreated>20190714T155917</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0207" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0207">
+              <DateLine>20190714T155917</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>沙田超過11萬人反送中  中老年人上街挺年輕人</HeadLine>
+                     <SlugLine>香港近來幾乎每週都
+有「反送中」遊行，今天戰場更擴大至郊區，下午有數
+萬民眾參加沙田區遊行，不乏中老年人。一名高齡抗議
+者說，一般人就算政治零分，政治還是會自己找上門。
+
+    組織者表示，今天的行動大約有11萬5000人參加；
+根據警方評估，高峰期的抗議人數約為2萬8000。
+
+ ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>沙田超過11萬人反送中  中老年人上街挺年輕人</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社香港14日綜合外電報導）香港近來幾乎每週都有「反送中」遊行，今天戰場更擴大至郊區，下午有數萬民眾參加沙田區遊行，不乏中老年人。一名高齡抗議者說，一般人就算政治零分，政治還是會自己找上門。</p>
+<p>組織者表示，今天的行動大約有11萬5000人參加；根據警方評估，高峰期的抗議人數約為2萬8000。</p>
+<p>反送中運動目前已演變為更廣泛的捍衛民主法治和傳達其他社會不滿的行動。</p>
+<p>高齡73歲的珍妮．關（Jennie Kwan，譯音）告訴路透社：「最近對中國真的毫無信心，所以反對者才上街。（北京當局）他們不是承諾50年不變嗎？但我們都看到變化了。我自己都70多歲了。我哪懂什麼政治？但政治自己會找上門。」</p>
+<p>一些抗議群眾手持布條，呼籲美國總統川普「解放香港」、「捍衛我們的憲法」。另一些人則揮舞英國和美國國旗，或者要求香港獨立的布條。</p>
+<p>抗議現場還可見有中國國家主席習近平圖像的看板，上頭文字寫道：「引渡至中國，永遠消失。」此外，「林鄭月娥下地獄吧！」的口號幾乎隨處可聞。</p>
+<p>69歲的陳姓老先生說：「我從6月以來幾乎沒錯過任何一場遊行。我支持年輕人，他們做了我們沒做過的事。我們無法為他們做什麼，只能出門遊行，以表達我們的肯定與支持。」（譯者：陳韻聿/核稿：林治平）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T145516</FirstCreated>
+          <ThisRevisionCreated>20190714T145516</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0201" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0201">
+              <DateLine>20190714T145516</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>香港沙田遊行後 晚間一度爆發警民衝突</HeadLine>
+                     <SlugLine>由香港網民發起的沙田遊行，今
+晚近10時一度出現衝突。部份停留在當地商場「新城市
+廣場」內的示威者，與要求群眾解散的防暴警察出現短
+暫混戰，已有示威者受傷及被捕，但人潮也逐漸散去。
+
+    綜合港媒報導，由網民接力舉辦的沙田遊行，今天
+依然獲得不少民眾響應，人潮直到晚間仍未完全散去。 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>香港沙田遊行後 晚間一度爆發警民衝突</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北14日電）由香港網民發起的沙田遊行，今晚近10時一度出現衝突。部份停留在當地商場「新城市廣場」內的示威者，與要求群眾解散的防暴警察出現短暫混戰，已有示威者受傷及被捕，但人潮也逐漸散去。</p>
+<p>綜合港媒報導，由網民接力舉辦的沙田遊行，今天依然獲得不少民眾響應，人潮直到晚間仍未完全散去。主辦方宣布有11.5萬人參加，香港警方則估計遊行最高峰時有2.8萬人加入。</p>
+<p>這場遊行原訂下午2時30分開始。但因參與人數眾多，在警方要求下大會宣布提早半小時出發。近40分鐘後，遊行隊伍前端已抵達沙田中心區的新城市廣場，但大批民眾仍然還沒出發。</p>
+<p>依警方核准路線，遊行本應在傍晚沙田巴士總站結束，主辦者接著在不遠處的室外舉行電影放映會。但因參與遊行人數眾多，且傍晚前已發生零星衝突，放映會因此取消，以便容納更多人潮。</p>
+<p>不過，入夜後不少示威者並未散去，紛紛前往新城市廣場一樓大廳內集結，而大批警力也逐漸向新城市廣場週邊集結，氣氛漸趨緊張。而不少民眾則以人龍方式，將飲水等物資接力傳遞到商場內。而日前在聯合國就香港問題發表演講的藝人何韻詩，也一度到場聲援。</p>
+<p>但晚間8時30分，警方以遊行已結束為由，用擴音器要求現場室內外的示威者立即離開。同一時間，大批防暴警察以包抄方式進入示威者聚集區，9時過後更數度舉牌警告，氣氛漸趨緊張。</p>
+<p>當防暴警察開始進入人潮最多的新城市廣場大廳時，立即引發示威者不滿，現場出現鼓譟，雙方呈現對峙。9時30分起，警方封鎖商場與地鐵沙田站的聯絡通道，地鐵過站不停，並開始搜查逮捕現場示威者。</p>
+<p>一些示威者見狀，開始在大廳及高處向警方丟擲雨傘及水瓶，衝突在近10時引爆，警方動手逮捕丟擲物品的示威者。在衝突中，目前已知有數名示威者受傷，也有人被捕。</p>
+<p>晚間10時20分左右，地鐵沙田站重新開放列車停靠，新城市廣場與地鐵站之間的通道也恢復通行，大批示威者因此紛紛搭乘地鐵離場，人潮在10時30分後陸續散去。</p>
+<p>經過昨天上水、今天沙田的遊行後，也宣告香港6月以來的「反送中」遊行風潮，已從港島、九龍擴展到新界。（編輯：邱國強）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T123915</FirstCreated>
+          <ThisRevisionCreated>20190714T123915</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0183" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0183">
+              <DateLine>20190714T123915</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>英媒：林鄭月娥數度請辭 北京要她先收拾爛攤子</HeadLine>
+                     <SlugLine>英國金融時報報導，知情人士透
+露，香港特區行政長官林鄭月娥過去數週曾在不同場合
+提出請辭，但都被北京方面拒絕。北京並要求林鄭月娥
+留下來，清理「自己造成的混亂」。
+
+    根據報導，其中一名消息人士形容，沒有其他人可
+以清理這個「爛攤子」，現在也沒有人想接手香港特首
+的職務。
+
+ ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>英媒：林鄭月娥數度請辭 北京要她先收拾爛攤子</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北14日電）英國金融時報報導，知情人士透露，香港特區行政長官林鄭月娥過去數週曾在不同場合提出請辭，但都被北京方面拒絕。北京並要求林鄭月娥留下來，清理「自己造成的混亂」。</p>
+<p>根據報導，其中一名消息人士形容，沒有其他人可以清理這個「爛攤子」，現在也沒有人想接手香港特首的職務。</p>
+<p>報導指出，面對金融時報查證，香港特首辦則回覆，林鄭月娥已經公開表達自己仍會致力為香港人服務。至於國務院港澳辦公室，則沒有回應金融時報的查證。</p>
+<p>綜合港媒報導，林鄭月娥9日在港府行政會議前會見媒體時，曾被問到是否會下台請辭。她當時回答，「行政長官下台不是簡單的事」。</p>
+<p>香港學者盧兆興日前向路透表示，與北京打交道並不是說退就能退，北京領導人不得不權衡風險，要先找到一個林鄭月娥的替代品，但這並不容易。</p>
+<p>盧兆興指出，目前較確定的是，北京可能希望林鄭在離任前，至少幫助繼任者挽回逃犯條例修訂造成的一些損害，但幾乎肯定希望她在2020年9月立法會改選前離開。</p>
+<p>他認為，中國領導人一直都在吹捧香港的「一國兩制」可作為「統一台灣的典範」。但經過「反送中」風潮後，短期內北京應該不希望在2020年台灣總統大選前，進一步削弱「一國兩制」的形象。</p>
+<p>其它分析人士也認為，林鄭月娥已經破壞中共總書記習近平的「大計」，香港未來要引進中國希望的相關法律，將變得更加困難。（編輯：邱國強）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T100213</FirstCreated>
+          <ThisRevisionCreated>20190714T100213</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0158" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0158">
+              <DateLine>20190714T100213</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>分析：中共三朝帝師王滬寧 是黨內改革規劃要角</HeadLine>
+                     <SlugLine>有「三朝帝師」之稱的中共政治
+局常委王滬寧，7月接連主持黨內深化機構改革及黨建
+工作會議，曝光率大增。分析認為，在總書記習近平治
+下，王滬寧舉足輕重，扮演黨內改革的規畫執行角色。
+
+    中共7月上旬接連召開兩場會議，一是5日舉行的「
+深化黨和國家機構改革總結會議」，7名政治局常委全 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>分析：中共三朝帝師王滬寧 是黨內改革規劃要角</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北14日電）有「三朝帝師」之稱的中共政治局常委王滬寧，7月接連主持黨內深化機構改革及黨建工作會議，曝光率大增。分析認為，在總書記習近平治下，王滬寧舉足輕重，扮演黨內改革的規畫執行角色。</p>
+<p>中共7月上旬接連召開兩場會議，一是5日舉行的「深化黨和國家機構改革總結會議」，7名政治局常委全數到齊；二是9日舉行的「中央和國家機關黨的建設工作會議」，也有4名政治局常委與會。而這兩場會議，均由不常曝光的王滬寧主持。</p>
+<p>美中貿易戰於2018年3月開打後，外界開始質疑中共對習近平個人及國家成就的浮誇宣傳，此後宣傳調門即告降溫。7、8月中共召開北戴河會議期間，即傳出主管黨內意識型態的王滬寧遭指責甚至失勢的傳聞。然而事後證實，王滬寧在黨內的地位，並未動搖。</p>
+<p>香港01發表文章指出，一般情況下，上述兩場中央級別的會議，都是由習近平發表較具權威和宏觀性的政策講話，而會議主持人則由相關領域的具體負責人來擔任。</p>
+<p>文章認為，王滬寧在黨內主管黨務。由上述情況來看，他在中共政壇，尤其是在中共正進行的改革裡，扮演著「舉足輕重的角色」，甚至可能是習近平治下「具體改革事項的勾畫者與執行者」。</p>
+<p>這篇文章指出，王滬寧是本屆中共中央「全面深化改革委員會」的3名副主任之一，且兼任祕書長及辦公室主任。而在這個委員會的前身、2014年1月成立的「中央深化改革小組」時代，王滬寧就已是其中成員。</p>
+<p>文章說，王滬寧1990年代在復旦大學任教時，曾寫過一系列關於中國政治制度的學術性文章，對中共現行政治制度已有深入研究，並有自己的見解，似是他在這方面受到重用的主因。（編輯：邱國強/翟思嘉）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T092213</FirstCreated>
+          <ThisRevisionCreated>20190714T092213</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0140" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0140">
+              <DateLine>20190714T092213</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>搶占道義高點  華春瑩指中國沒能解決挨罵問題</HeadLine>
+                     <SlugLine>中國近年大力投資「大外宣」，
+爭搶國際話語權。不過，中國外交部發言人華春瑩認為
+，中國的話語權「與實力相比嚴重不相稱」，中國雖已
+不再挨打、挨餓，但還沒徹底解決「挨罵」的問題。
+
+    華春瑩以中共中央黨校進修學員身分發表的「占據
+道義制高點，提升國際話語權」一文，12日刊登在中央
+ ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>搶占道義高點  華春瑩指中國沒能解決挨罵問題</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北14日電）中國近年大力投資「大外宣」，爭搶國際話語權。不過，中國外交部發言人華春瑩認為，中國的話語權「與實力相比嚴重不相稱」，中國雖已不再挨打、挨餓，但還沒徹底解決「挨罵」的問題。</p>
+<p>華春瑩以中共中央黨校進修學員身分發表的「占據道義制高點，提升國際話語權」一文，12日刊登在中央黨校刊物「學習時報」上，並在13日透過學習時報的微信公眾號再次發布。</p>
+<p>華春瑩說，國際輿論格局總體上是「西強我弱」，中國經濟總量已經位居世界第2，但話語權與實力相比嚴重不相稱。中國走進了世界舞台中央，但手中尚不完全掌握麥克風，「時常處於有理說不出、有聲傳不開的尷尬境地」。</p>
+<p>她還說：「我們雖然已經站起來、富起來，解決了『挨打』『挨餓』的問題，但要真正強起來，徹底解決『挨罵』的問題依然任重道遠。」</p>
+<p>華春瑩直言，話語權的核心就是意識形態，「中國的成功故事就是中國共產黨的成功故事」，能夠「為世界上那些既希望加快發展，又希望保持自身獨立性的國家和民族，提供全新選擇和有益借鑒」。</p>
+<p>在具體作法上，華春瑩提到要用「中國傳統文化的道義優勢」來構建道義理論，還要利用中國作為安理會常任理事國制度性權力，為中小國家和發展中國家發言，「鞏固和擴大發展中國家利益和話語共同體」。</p>
+<p>作為外交部發言人，華春瑩的言談經常顯露強勢的一面，而這種強勢作風，也展現在從外交部長王毅到駐外大使的多名中國外交官員身上。</p>
+<p>然而，「言詞強勢」難以展現華春瑩文章中強調的「道義」，外媒法廣網的評論日前還說，中國外交部反而成了「中外關係破壞部」。</p>
+<p>至於「鞏固和擴大發展中國家利益和話語共同體」的作法，則已經為中國使用。在22國日前呼籲中國停止任意拘禁維吾爾族人後，包括俄羅斯、中南美洲及亞非等國家在內的37國也聯名致信聯合國，表態支持中國的新疆政策，形成人權議題對壘。（編輯：張淑伶/林克倫）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T083012</FirstCreated>
+          <ThisRevisionCreated>20190714T083012</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0128" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0128">
+              <DateLine>20190714T083012</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>週週反送中 香港沙田遊行提早起步</HeadLine>
+                     <SlugLine>香港一個多月以來，幾乎每週都
+有反對逃犯條例修訂的「反送中」遊行和示威活動，沙
+田區今天下午也有遊行，由於參加人數眾多，活動提早
+約半小時起步。
+
+    綜合香港01等港媒報導，沙田區反對修訂逃犯條例
+遊行下午登場，由車公廟旁的翠田街足球場出發，遊行
+至港鐵沙田站公共交通交匯處。
+ ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>週週反送中 香港沙田遊行提早起步</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北14日電）香港一個多月以來，幾乎每週都有反對逃犯條例修訂的「反送中」遊行和示威活動，沙田區今天下午也有遊行，由於參加人數眾多，活動提早約半小時起步。</p>
+<p>綜合香港01等港媒報導，沙田區反對修訂逃犯條例遊行下午登場，由車公廟旁的翠田街足球場出發，遊行至港鐵沙田站公共交通交匯處。</p>
+<p>遊行原訂下午2時30分開始，但由於參與人數眾多，大會宣布提早半小時出發。經過近40分鐘，遊行隊伍龍頭已到達沙田地標新城市廣場。同一時間，大批市民仍在龍尾等候出發。</p>
+<p>有示威者在步入新城市廣場附近時舉起黃色雨傘，藉此代表稍早前因反逃犯條例修訂而輕生的示威者參加遊行。</p>
+<p>6月9日以來，香港針對反對逃犯條例修訂的相關遊行和示威活動不斷，其中主辦單位指9日和16日的規模各自高達100萬和200萬人。</p>
+<p>在巨大的民意壓力下，原先修法立場堅定的香港行政長官林鄭月娥宣布暫緩修法並公開道歉，日前更公開承認修法工作「完全失敗」，逃犯條例草案已「壽終正寢」，但許多港人仍堅持必須撤回草案，並要求林鄭月娥下台。（編輯：周慧盈/張淑伶）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T075910</FirstCreated>
+          <ThisRevisionCreated>20190714T075910</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0120" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0120">
+              <DateLine>20190714T075910</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>促正視警方阻採訪  香港記協：逾千人靜默遊行</HeadLine>
+                     <SlugLine>香港7個傳媒工會和組織今天發
+起靜默遊行，要求政府和警方正視警員使用武力和暴力
+阻止傳媒工作的問題。香港記協表示，有超過1500人參
+與。
+
+    官方香港電台引述香港記者協會主席楊健興表示，
+最近數次示威及遊行中，警方以暴力和語言暴力對待記
+者，已超越社會可接受的界限，不但影響傳媒 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>促正視警方阻採訪  香港記協：逾千人靜默遊行</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北14日電）香港7個傳媒工會和組織今天發起靜默遊行，要求政府和警方正視警員使用武力和暴力阻止傳媒工作的問題。香港記協表示，有超過1500人參與。</p>
+<p>官方香港電台引述香港記者協會主席楊健興表示，最近數次示威及遊行中，警方以暴力和語言暴力對待記者，已超越社會可接受的界限，不但影響傳媒採訪工作，也影響大眾的知情權。</p>
+<p>他強調，記者要在免於恐懼、免於暴力之下，才可充分發揮第四權的監督角色。</p>
+<p>楊健興表示，業界只希望警方遵從警例，配合傳媒採訪工作；此外，也要求行政長官（特首）林鄭月娥履行競選時簽署的「新聞自由約章」承諾，捍衛新聞自由。</p>
+<p>香港連月來針對逃犯條例修訂草案上演多起「反送中」大規模示威和遊行，有記者在採訪期間，據報遭到警方驅趕、辱罵和打傷；7個傳媒工會和組織上午發起靜默遊行，要求警方尊重新聞自由。</p>
+<p>這7個傳媒工會和組織分別是：香港記者協會、香港攝影記者協會、獨立評論人協會、大專新聞教育工作者聯席、明報職工協會、壹傳媒工會以及香港電台製作人員工會。</p>
+<p>遊行主題為「停止警暴，捍衛新聞自由」，上午10時許在夏愨花園開始集合，參加人士響應主辦單位的呼籲穿上黑衣。遊行隊伍在中午前，到達警察總部並遞交請願信，終點站是特首辦公室。（編輯：周慧盈/林克倫）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T073810</FirstCreated>
+          <ThisRevisionCreated>20190714T073810</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0115" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0115">
+              <DateLine>20190714T073810</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>上行下效  中國外交部變中外關係破壞部</HeadLine>
+                     <SlugLine>原慣於低調行事的中國外交部駐
+外大使，近年屢因重炮回擊爭議事件而成為焦點；外媒
+報導，動輒以訓斥霸氣的語調說話，是要向西方國家爭
+奪話語權，起因與外交部長王毅的作風有關。
+
+    法廣網報導，許多人注意到一個新現象，中國和歐
+美的關係近年日趨緊張、給人越來越敵對之感；有些觀
+察人士分 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>上行下效  中國外交部變中外關係破壞部</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北14日電）原慣於低調行事的中國外交部駐外大使，近年屢因重炮回擊爭議事件而成為焦點；外媒報導，動輒以訓斥霸氣的語調說話，是要向西方國家爭奪話語權，起因與外交部長王毅的作風有關。</p>
+<p>法廣網報導，許多人注意到一個新現象，中國和歐美的關係近年日趨緊張、給人越來越敵對之感；有些觀察人士分析認為，這與中國外交部官員語氣橫蠻、炮彈連連有關，不像是作外交、更像在對外作戰。</p>
+<p>報導以中加關係為例指出，加拿大因華為財務長孟晚舟事件捲入中美爭端，中國駐加拿大大使盧沙野主動站上火線，指責加方是「有預謀的政治行動」，此作法讓中國人民寒心。</p>
+<p>孟晚舟事件隨後引發中國拘捕兩名加拿大人作為報復，加拿大則聯合西方盟友譴責中方。對此，盧沙野又炮轟西方雙重標準、踐踏中國法制；除指控「白人至上主義」外，更警告加拿大若禁止華為參與5G建設，將會面臨「後果」。</p>
+<p>報導指出，盧沙野強硬言詞與王毅有關。2016年的中加兩國外長聯合記者會上，媒體詢問香港書商失蹤事件，結果引來王毅手指這名加國女記者怒斥：「你的提問充滿了對中國的偏見，和所謂的不知從什麼地方來的傲慢，我是完全不能接受的。」</p>
+<p>王毅還反問：「你去過中國嗎？知道中國從一窮二白，幫助6億人擺脫貧困嗎？知道中國人均8000美元的第2大經濟體嗎？知道中國把保護人權列入到憲法當中了嗎？」</p>
+<p>報導引述分析稱，外交部長王毅的「語不驚人死不休」，動輒以訓斥霸氣的語調說話，據說是為了要向西方國家爭奪話語權，但結果淪為一場罵戰。</p>
+<p>部長示範、外交使節爭先恐後。去年9月，一家3口中國遊客在瑞典入駐酒店未成、反遭警方驅離；原默默無聞的中國駐瑞典大使桂從友刻意忽略細節、義正詞嚴譴責瑞典不講人權粗暴對待中國遊客。當時就有中國網民譏諷，跟瑞典槓上、了不起！</p>
+<p>香港反送中也是一例。英國外交大臣韓特（JeremyHunt）敦促北京按「中英聯合聲明」（Sino-BritishJoint Declaration）規定行事；中國外交部發言人耿爽以諷刺謾罵口吻稱，英方「還沉浸在昔日英國殖民者的幻想當中，還執迷於居高臨下對他國事務指手畫腳的惡習當中，仍然不知悔改，繼續信口雌黃」。</p>
+<p>外交部變成「中外關係破壞部」，怪發言人嗎？怪大使嗎？報導引述分析人士稱，此跟外交部的領導有重大關係，再往更深層次看，其實跟習近平個人作風有重大關係；習近平要大家敢於鬥爭，以牙還牙，而王毅的表現，頗得上意喜歡，最後提升為副國級。（編輯：林克倫/張淑伶）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T063909</FirstCreated>
+          <ThisRevisionCreated>20190714T063909</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0103" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0103">
+              <DateLine>20190714T063909</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>杭州女童離奇命案 留守兒童悲歌引議論</HeadLine>
+                     <SlugLine>中國浙江日前發生一起離奇的命
+案，引發全國議論。一男一女兩名房客4日帶走房東的9
+歲女兒後失聯，8日這兩人在寧波跳湖自殺，女童的遺
+體也在13日被發現。此事反映出留守兒童悲歌。
+
+    綜合中新網等陸媒報導，43歲的梁姓男子與46歲的
+謝姓女子6月起來到浙江淳安遊玩，經常光顧一家水果 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>杭州女童離奇命案 留守兒童悲歌引議論</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北14日電）中國浙江日前發生一起離奇的命案，引發全國議論。一男一女兩名房客4日帶走房東的9歲女兒後失聯，8日這兩人在寧波跳湖自殺，女童的遺體也在13日被發現。此事反映出留守兒童悲歌。</p>
+<p>綜合中新網等陸媒報導，43歲的梁姓男子與46歲的謝姓女子6月起來到浙江淳安遊玩，經常光顧一家水果攤。後來以飯店太貴為由，6月29日向水果攤老闆租住其家，並和老闆的孫女、也就是此案中最後犧牲的女童章子欣逐漸熟絡起來。</p>
+<p>7月4日，這兩名租客以帶女童「赴上海喝喜酒、作花童」為由，將其從家中帶走，還承諾6日會帶女童回家。但他們其實並未去上海，6日當天藉口「買不到車票」無法帶女童返家，此後就失聯。</p>
+<p>兩名租客6日曾拍攝女童坐在車裡的短片發在微信朋友圈，文章說女孩在車上睡著了，睡得很香，還稱「收了一個女兒」。女童的父親章軍當時看到這則發文就覺得不對勁，但隔天這則發文被刪除，他在8日報警。</p>
+<p>章子欣的父親平時在外打工，一年只見女兒3、4次，原本暑假即將與女兒相聚。他一開始在電話中反對租客要帶女兒出遠門。女童的奶奶也說，她起初拒絕租客把女童帶走。</p>
+<p>7日下午5點半左右，租客和女童3人出現在寧波象山黃金海岸大酒店門口的監視畫面中。當晚10時左右的監控畫面中，卻沒有章子欣的身影，而租客兩人連夜叫計程車前往寧波東錢湖，選擇了跳湖自殺。</p>
+<p>在離家9日、距離正式報案5日後，章子欣遺體13日下午在浙江象山縣石浦海域被發現。</p>
+<p>租客自殺，似乎排除了「拐賣兒童」的企圖。謝姓女租客在社群平台上放了許多家鄉神祇的照片，也一度被懷疑他們的作為是否與邪教組織有關。這對男女租客在自殺前，共同遊歷了中國境內30多做城市，顯然並非經濟困難之人。這起事件暴露出許多疑點。</p>
+<p>陸媒輿論則檢討，身為外人的租客，可以輕易將房東家的女童哄騙走，這和章子欣留守兒童的狀況有關。</p>
+<p>事件中的人物，也似乎都顯示出現代家庭崩壞的一面。上游新聞報導指出，梁姓男租客曾有過婚姻和子女，但因欠債15、16年未返家，與家人失聯。謝姓女租客曾以買房、做生意為由，向哥哥借款人民幣50萬元後失聯。而女童父母則是在報警孩子失聯當天辦理離婚手續，兩人並沒有談到女兒狀況。也在外打工的女童母親說，夫妻感情破裂已久，她以為孩子是被親戚帶去旅遊。</p>
+<p>事件還反映出陸媒不當「搶新聞」。13日下午，在警方通報找到疑似女童遺體的消息後，大陸網站百度認證的帳號「章子欣父親」就發布動態，指「這輩子我們無緣繼續作父女，希望下輩子她還是我女兒」。</p>
+<p>到了13日晚上9時30分，百度官方帳號在微博上回應，已展開內部調查，稱百度新聞的值班編輯在與女童父親「聯繫、但未得到確認回覆」的情況下發布這則動態，傷害了女童家人和廣大用戶的感情，已開除這名負責編輯。（編輯：張淑伶/周慧盈）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T043307</FirstCreated>
+          <ThisRevisionCreated>20190714T043307</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0074" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0074">
+              <DateLine>20190714T043307</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>香港傳媒工會靜默遊行  黑衣上陣表達憤怒</HeadLine>
+                     <SlugLine>香港連月來針對逃犯條例修訂草
+案上演多起「反送中」大規模示威遊行，有記者在採訪
+期間據報遭到警方驅趕、辱罵和打傷，7個傳媒工會和
+組織今天發起靜默遊行，要求警方尊重新聞自由。
+
+    綜合香港01、立場新聞等港媒報導，7個傳媒工會
+和組織包括香港記者協會、香港攝影記者協會、獨立評
+論 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>香港傳媒工會靜默遊行  黑衣上陣表達憤怒</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北14日電）香港連月來針對逃犯條例修訂草案上演多起「反送中」大規模示威遊行，有記者在採訪期間據報遭到警方驅趕、辱罵和打傷，7個傳媒工會和組織今天發起靜默遊行，要求警方尊重新聞自由。</p>
+<p>綜合香港01、立場新聞等港媒報導，7個傳媒工會和組織包括香港記者協會、香港攝影記者協會、獨立評論人協會、大專新聞教育工作者聯席、明報職工協會、壹傳媒工會以及香港電台製作人員工會。</p>
+<p>這場主題為「停止警暴，捍衛新聞自由」的新聞界靜默遊行要求警方尊重新聞自由。主辦單位強調，這次沉默遊行是向權力機構表達不滿，是和平有序的遊行，不會有任何升級行動，也不希望出現辱罵警察的情況。</p>
+<p>遊行自上午10時許在夏愨花園開始集結，現場數百人響應主辦單位的呼籲穿上黑衣；11時左右，隊伍出發，遊行人士手持兩張大型標語，上面寫著「自由天空」和「停止警暴，捍衛新聞自由」。</p>
+<p>遊行隊伍在11時30分左右到警察總部，並向警方遞交請願信，終點站是行政長官辦公室。（編輯：周慧盈/張淑伶）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190714T034206</FirstCreated>
+          <ThisRevisionCreated>20190714T034206</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190714CFP0056" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190714CFP0056">
+              <DateLine>20190714T034206</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>社會信用體系爭議  官網取下港澳台預留連結</HeadLine>
+                     <SlugLine>中國力推「社會信用體系」，並
+明文規範將要在粵港澳大灣區實施此制度，引發香港社
+會恐慌。經過香港官員反映，目前中國的「信用中國」
+官網中，原本預留給港澳台的連結已經刪除。
+
+    中國廣東省政府5日公布「廣東省推進粵港澳大灣
+區建設3年行動計劃（2018-2020年）」，其中提到，加 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>社會信用體系爭議  官網取下港澳台預留連結</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北14日電）中國力推「社會信用體系」，並明文規範將要在粵港澳大灣區實施此制度，引發香港社會恐慌。經過香港官員反映，目前中國的「信用中國」官網中，原本預留給港澳台的連結已經刪除。</p>
+<p>中國廣東省政府5日公布「廣東省推進粵港澳大灣區建設3年行動計劃（2018-2020年）」，其中提到，加快社會信用體系和市場監管體系建設。探索依法對大灣區內企業聯動實施信用激勵和失信懲戒。建成全廣東省統一的市場監管信息平台。</p>
+<p>此外，官方網站「信用中國」顯示，除了各省市放上信用網站連結，先前還預留香港、澳門、台灣位置，這3地未連向任何網站。</p>
+<p>正值港人熱烈「反送中」之際，這套由官方定義、用來限制或引導民眾行為的「獎善罰惡」制度將在3年內套用到香港，引來香港民眾及學界反彈，擔心會進一步摧毀已經危在旦夕的香港自治地位。</p>
+<p>港府9日發出聲明，引用香港政制及內地事務局局長聶德權的說法，強調社會信用體系建設計劃「只適用於廣東省，特區政府不會在香港施行」。</p>
+<p>聶德權13日又於社群平台臉書（Facebook）發文，指經與有關內地部門反映和溝通，「信用中國」官方網頁已經把不會實施社會信用體系的港、澳、台從欄目中刪除，「以免產生誤會」。</p>
+<p>中國預計在2020年全面實施「社會信用評級系統」，將人民的違規或優良行為綜合計分，並對分數高低的人實施獎勵與限制，涉及交通搭乘、入學、就業等各種領域的權益，目前這套社會信用體系已在多個城市試點。</p>
+<p>陸媒財新網曾經報導，這套系統的許多評分項目和個人信用沒有關係，而且容易造假、尋租，產生許多弊病。（編輯：張淑伶/翟思嘉）1080714</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T150101</FirstCreated>
+          <ThisRevisionCreated>20190713T150101</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0247" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0247">
+              <DateLine>20190713T150101</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>反送中遍地開  光復上水遊行爆零星衝突</HeadLine>
+                     <SlugLine>由香港網民發起的「光復上水」
+遊行，傍晚結束後人群未散，晚間爆發零星衝突，警方
+逮捕數名示威人士，民眾號召14日沙田遊行再見；主辦
+方稱有3萬人參與，警方表示最高峰4千人。
+
+    今天的「光復上水」遊行主訴求並非反對修訂逃犯
+條例，而是抗議陸客透過自由行至上水採購藥品、奶粉
+等跑單 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>反送中遍地開  光復上水遊行爆零星衝突</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北13日電）由香港網民發起的「光復上水」遊行，傍晚結束後人群未散，晚間爆發零星衝突，警方逮捕數名示威人士，民眾號召14日沙田遊行再見；主辦方稱有3萬人參與，警方表示最高峰4千人。</p>
+<p>今天的「光復上水」遊行主訴求並非反對修訂逃犯條例，而是抗議陸客透過自由行至上水採購藥品、奶粉等跑單幫行徑，長年干擾當地居民生活作息，且港府放任不管；不過，遊行現場仍有「反送中」示威者參與。</p>
+<p>綜合香港各媒體報導，代表香港網民通知警方遊行路線的「北區水貨客關注組」發言人梁金成下午表示，此次遊行是要求政府回應多項訴求，包括正視水貨客問題、取消「一周一行」、加強檢控阻街情況等。</p>
+<p>他強調，遊行由網民自發，因為他們認為水貨客問題多年未能解決，遊行會以和平方式進行，相信上水的街坊不希望再為上水區添煩添亂。</p>
+<p>「光復上水」反水貨客遊行下午3時30分出發，遊行人士呼喊口號，手持寫上「嚴正執法，杜絕水貨客」的標語布條；但警方稱，隊伍出發後未按照「不反對通知書」路線行進，民眾與警方曾僵持數分鐘，後繼續前行。</p>
+<p>整個遊行下午5時左右結束，由於部分遊行人士未按路線行進，並聚集在上水廣場的天橋與員警對峙；警方曾多次向人群施放胡椒噴劑，示威民眾則打開雨傘遮擋，期間爆發數起零星衝突。</p>
+<p>報導稱，入夜後，仍有大批示威者在上水的不同街道內聚集與示威，甚至查察是否有藥妝店仍在營業。警方宣稱，曾發現有示威者主動攻擊警察，並投擲鐵條及不知名粉末，呼籲民眾不要前往現場。</p>
+<p>晚間8時，警方開始進行清場行動。從香港媒體的直播影片畫面可看到，示威者多已離開上水廣場的天橋一帶，清場並未遭到阻攔，但警方仍拘捕數名年輕示威者，且過程有多名媒體記者受傷。</p>
+<p>報導稱，清場於晚間10點左右結束並撤離。有市民批評，警方在大部分示威者離去後，才封閉行人天橋及道路，是想展示警力，也浪費納稅人金錢，對居民造成不便。（編輯：林克倫）1080713</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T143000</FirstCreated>
+          <ThisRevisionCreated>20190713T143000</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0240" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0240">
+              <DateLine>20190713T143000</DateLine>
+              <Author>沈朋達</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>駁楊世光  陸委會：陸方已簡化相關執照申請</HeadLine>
+                     <SlugLine>新黨總統參選人楊世
+光今天表示，兩岸服貿協議停擺，影響近日被捕的台籍
+分析師執業資格認定。陸委會回應，陸方已在ECFA早收
+清單中簡化相關執照申請，楊世光所言並非事實。
+
+    楊世光13日表示，太陽花運動造成兩岸服務貿易協
+議停擺，若兩岸簽署協議，台灣金融從業人員的證照就
+能在雙方 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>駁楊世光  陸委會：陸方已簡化相關執照申請</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者沈朋達台北13日電）新黨總統參選人楊世光今天表示，兩岸服貿協議停擺，影響近日被捕的台籍分析師執業資格認定。陸委會回應，陸方已在ECFA早收清單中簡化相關執照申請，楊世光所言並非事實。</p>
+<p>楊世光13日表示，太陽花運動造成兩岸服務貿易協議停擺，若兩岸簽署協議，台灣金融從業人員的證照就能在雙方談判下，得到大陸認可，「不會有今天資質認定的爭議，造成這些有專業證照的台籍分析師被調查」。</p>
+<p>大陸委員會13日晚間以書面方式表示，依據民國99年9月12日生效的海峽兩岸經濟合作架構協議（ECFA）早收清單，大陸方面承諾開放項目已包括：簡化台灣證券從業人員在大陸申請從業人員資格和取得執業資格，台人已可依上述規定在中國大陸申請證券從業人員資格，和取得執業執照。</p>
+<p>因此，陸委會表示，並無楊世光所稱，服貿協議因太陽花運動擱置，造成金融服務業的台商經營範圍，和台灣民眾的專業證照出現認定爭議等問題。</p>
+<p>陸委會指出，兩岸服貿協議在民國102年6月21日簽署，行政院當年6月27日院會通過並送立法院備查，目前尚待立法院審議中。</p>
+<p>有關服貿協議後續的處理程序，政府將俟「兩岸協議監督條例」完成立法後，依據監督條例相關規定進行檢視，審酌國會及各界意見進行後續處理，行政部門並無阻擋兩岸服貿協議情形。</p>
+<p>陸委會也指出，兩岸服貿協議大陸方面金融服務部門的開放承諾，並未涉及台灣證券從業人員在大陸申請從業人員資格和取得執業資格的相關程序；楊世光所言並非事實，恐模糊焦點 ，混淆視聽，無助於本案的處理。</p>
+<p>另外，陸委會表示，本案已透過「兩岸共同打擊犯罪與司法互助協議」管道向陸方聯繫窗口查證，確實有12名台灣分析師遭上海警方進行調查，3名遭刑事拘留，另4名取保候審，罪名為非法經營罪；其他人則被請回。</p>
+<p>陸委會強調，政府將持續透過刑事局及海基會協助查詢了解資訊，相關單位十分重視此案，已積極與陸方聯繫，密切追蹤後續情況，並將盡力提供相關協助，以維護台人合法權益。（編輯：林克倫）1080713</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T123559</FirstCreated>
+          <ThisRevisionCreated>20190713T123559</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0213" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0213">
+              <DateLine>20190713T123559</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>劉曉波逝世2週年 一次看懂</HeadLine>
+                     <SlugLine>今天是諾貝爾和平獎得主劉曉波
+逝世2週年，香港和德國都舉辦了追思活動。本文整理
+劉曉波在六四、零八憲章和諾貝爾和平獎的歷程，帶您
+認識這位主張「我沒有敵人」的中國民主倡導者。
+
+    ●劉曉波是誰？
+
+    1955年12月28日，劉曉波出生於吉林省長春市的知
+識分子家庭，文革期 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>劉曉波逝世2週年 一次看懂</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北13日電）今天是諾貝爾和平獎得主劉曉波逝世2週年，香港和德國都舉辦了追思活動。本文整理劉曉波在六四、零八憲章和諾貝爾和平獎的歷程，帶您認識這位主張「我沒有敵人」的中國民主倡導者。</p>
+<p>●劉曉波是誰？</p>
+<p>1955年12月28日，劉曉波出生於吉林省長春市的知識分子家庭，文革期間曾在內蒙古和吉林下鄉，1977年中國恢復高考後，劉曉波考入吉林大學中文系；之後在北京師範大學中文系陸續獲得碩士和博士學位，早年的研究聚焦在美學和文學領域。</p>
+<p>1989年，劉曉波正在美國哥倫比亞大學擔任訪問學者，隨著北京發生學運，他在4月提前回到中國，並投入運動。6月4日清晨，解放軍清場時，劉曉波、周舵、高新和侯德建4人和戒嚴部隊談判，說服天安門廣場上的學生撤離，4人被媒體稱為「廣場四君子」。</p>
+<p>六四過後，劉曉波被開除公職，並被判「反革命宣傳煽動罪」。</p>
+<p>其後，劉曉波持續呼籲為六四平反、關注維權、批評時政，並要求中國實行民主憲政改革，期間曾多次被捕和軟禁。劉曉波曾有多次流亡海外機會，但最終都選擇留在中國。</p>
+<p>●「我沒有敵人」</p>
+<p>2008年，劉曉波和憲政學者張祖樺等人起草「零八憲章」，提出自由、人權、平等、民主、共和與憲政6項理念，並列出「修改憲法」、「立法民主」和「人權保障」等19項主張。首波簽署憲章的有鮑彤、浦志強、丁子霖等300多名異議人士。</p>
+<p>憲章原先預定在2008年12月10日「世界人權宣言」簽署60週年時發表，但12月8日，劉曉波就被以「涉嫌煽動顛覆國家政權罪」刑事拘留。</p>
+<p>2009年底，北京市第一中級人民法院判處劉曉波有期徒刑11年，剝奪政治權利2年。隔年開始在遼寧省錦州監獄服刑。</p>
+<p>當年在法庭上，劉曉波以「我沒有敵人－我的最後陳述」為題，從中國大陸憲法、聯合國國際人權公約對言論自由的保障，為自己辯護。</p>
+<p>劉曉波在陳述時強調，自己對參與逮捕、審訊過程的警察、檢察官和法官都沒有仇恨。他說，仇恨會腐蝕一個人的智慧和良知，因此自己以最大的善意對待政權的敵意，以愛化解恨。</p>
+<p>●空椅子</p>
+<p>2010年10月，諾貝爾委員會將和平獎，頒發給「長期以非暴力方式爭取中國基本人權」的劉曉波，引來中國政府大為不滿。。</p>
+<p>當時的中國外交部發言人馬朝旭表示，將諾貝爾獎頒發給受中國司法機關制裁的罪犯，是「對和平獎的褻瀆，並將損害中挪關係」。期間，也有多位民間人士因慶祝劉曉波獲獎而被捕。</p>
+<p>12月10日，身陷囹圇的劉曉波，和他被軟禁的妻子劉霞都無法出席頒獎典禮，諾貝爾和平獎委員會在頒獎台上放置一張空椅，並保留獎狀和獎金，等待劉曉波領取。自此，一張空椅就成為劉曉波的象徵。</p>
+<p>●身後</p>
+<p>2017年6月，劉曉波在監獄中被檢查出原發性肝癌，癌細胞已轉移到全身多處。遼寧省監獄管理局批准劉曉波保外就醫，劉霞也獲准前來照顧他，陪伴劉曉波走完人生最後一段路。當年7月13日，劉曉波在瀋陽病逝，享年61歲。</p>
+<p>劉曉波過世後，德國持續和中國斡旋，希望能將長年被軟禁的劉霞接到德國生活。2018年5月，德國總理梅克爾（Angela Merkel）訪中期間，中國總理李克強在記者會被問到劉霞的問題時表示，中方願意在相互尊重和平等的基礎上，和德國討論人權個案。</p>
+<p>2018年7月10日，在劉曉波逝世週年前夕，歷經8年軟禁的劉霞搭機離開中國，飛抵德國重獲自由。</p>
+<p>劉曉波最終沒能看到他所期盼的中國民主化，但「零八憲章」至今仍在網上連署，根據其網站，目前連署人數超過1.3萬人；而他「用愛化解恨」的理念，也將繼續傳送下去。（編輯：沈朋達/林克倫）</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T093956</FirstCreated>
+          <ThisRevisionCreated>20190713T093956</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0176" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0176">
+              <DateLine>20190713T093956</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>劉曉波逝世兩週年  香港德國舉辦追思活動</HeadLine>
+                     <SlugLine>今天是諾貝爾和平獎得主劉曉波
+逝世兩週年，香港和德國都舉辦紀念活動。活動發起人
+表示，希望藉由悼念劉曉波，追尋香港與中國的民主，
+也持續關注中國的人權狀況。
+
+    香港市民支援愛國民主運動聯合會（支聯會）7月
+起在「六四紀念館」舉行專題展，展示劉曉波著作，其
+遺孀劉霞的詩集，和其他 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>劉曉波逝世兩週年  香港德國舉辦追思活動</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北13日電）今天是諾貝爾和平獎得主劉曉波逝世兩週年，香港和德國都舉辦紀念活動。活動發起人表示，希望藉由悼念劉曉波，追尋香港與中國的民主，也持續關注中國的人權狀況。</p>
+<p>香港市民支援愛國民主運動聯合會（支聯會）7月起在「六四紀念館」舉行專題展，展示劉曉波著作，其遺孀劉霞的詩集，和其他相關書籍；並訂13日晚間7時，在香港文化中心廣場舉行劉曉波追思會。</p>
+<p>自由亞洲電台報導，香港支聯會副主席蔡耀昌表示，香港近期面對重要的政治問題，許多年輕人都關心政治，希望更多人能了解劉曉波的看法，一起尋找香港民主運動的方向，並推動整個中國的民主化。</p>
+<p>德國科隆（Cologne）市也將舉辦劉曉波的紀念活動。活動發起人之一的獨立中文筆會會長廖天琪表示，劉曉波獲得諾貝爾和平獎不只是他個人的榮耀，而是世界性的榮耀，極具象徵意義。</p>
+<p>她說：「當一個國家權力把一個追求自由的人壓迫致死，他（劉曉波）一點都沒有仇恨、不安和焦慮，他懷著愛離開世界。他的愛不單單是對他的妻子劉霞，也是對這個社會、人類，他的國家的愛。」</p>
+<p>廖天琪指出，在追憶劉曉波的同時，也應探討中國當下包括新疆「再教育營」和香港抗爭等人權問題。</p>
+<p>另一位活動發起人庫訥（Rohland Kuehne）牧師也發起連署，要求德國政府交涉成都「秋雨教會」近期受壓迫的事件。</p>
+<p>劉曉波的遺孀劉霞目前旅居德國，而廖天琪表示，劉霞目前狀態尚可，但她不會參與這次紀念活動。（編輯：沈朋達/林克倫）1080713</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T085055</FirstCreated>
+          <ThisRevisionCreated>20190713T085055</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0155" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0155">
+              <DateLine>20190713T085055</DateLine>
+              <Author>蘇龍麒</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>台籍分析師上海被捕 楊世光要黃國昌負責</HeadLine>
+                     <SlugLine>新黨總統參選人楊世
+光今天表示，上海仟和億公司旗下10多名台籍分析師遭
+司法調查，是因為2014年兩岸服貿協議因太陽花運動擱
+置，呼籲時代力量立委黃國昌與陸委會，「這12人就靠
+你們來救了」。
+
+    時代力量發言人李兆立說，據報導該案是一起涉及
+金融詐欺的案件，與服貿關係不大。既然 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>台籍分析師上海被捕 楊世光要黃國昌負責</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者蘇龍麒台北13日電）新黨總統參選人楊世光今天表示，上海仟和億公司旗下10多名台籍分析師遭司法調查，是因為2014年兩岸服貿協議因太陽花運動擱置，呼籲時代力量立委黃國昌與陸委會，「這12人就靠你們來救了」。</p>
+<p>時代力量發言人李兆立說，據報導該案是一起涉及金融詐欺的案件，與服貿關係不大。既然新黨一向推崇中國法治，楊世光應赴中接受調查，而非牽扯其他、轉移焦點。</p>
+<p>上海仟和億公司旗下12名台籍分析師被捕的消息傳出後，引起上海投顧圈人士議論，面對媒體查證皆低調以對。大陸委員會證實，確實有12名台灣分析師遭上海警方逮捕，其中9人取保候審，3人遭到刑事拘留。「楊世光在金錢爆」節目不只在YouTube播放，並於2018年透過大陸仟和億機頂盒上架。</p>
+<p>楊世光表示，報載中的10多名台籍分析師在台灣是合格且有執照的證券、期貨分析師，在仟和億教育培訓平台提供財經教育課程。根據他了解，他們正配合司法調查，調查的焦點在於這些分析師的從業資格。</p>
+<p>他表示，2014年兩岸服貿協議未過，導致台商在金融服務業、教育培訓等第三產業遇到法律見解上的爭議，這些在仟和億平台上授課的老師都具備專業的證券及期貨專業分析資格，是兩岸服貿協定未簽的受害者，因此在大陸執行業務遇到法律見解上的爭議。</p>
+<p>楊世光表示，太陽花運動造成兩岸服務貿易協議停擺。如果當年兩岸簽署協議，台灣金融從業人員的證照就能在雙方的談判之下得到大陸的認可，就不會有今天資格認定的爭議，造成這些有專業證照的台籍分析師被調查。</p>
+<p>他說，當年阻擋服貿協議的黃國昌應該為此負責，陸委會要儘快透過管道與對岸接洽，並提供台籍分析師司法協助，「這12人就靠你們來救了」。</p>
+<p>此外，媒體報導楊世光10日飛往上海營救這些分析師，楊世光說，如果媒體報導是真的，假如他涉嫌違法，「那麼回上海不叫自投羅網嗎？」他說，因為投入2020總統大選，很多東西都還放在上海，最近頻繁回去上海只是要帶回東西，籌備選舉。（編輯：鄭雪文）1080713</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T082854</FirstCreated>
+          <ThisRevisionCreated>20190713T082854</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0148" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0148">
+              <DateLine>20190713T082854</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>台籍分析師上海被捕  陸委會：陸方依協議通報</HeadLine>
+                     <SlugLine>上海仟和億公司旗下12名台灣分
+析師，傳出9日遭中國警方逮捕。陸委會今天證實這項
+消息，並要求陸方依據兩岸共打協議，通報遭刑事拘留
+的台人訊息。
+
+    大陸委員會13日下午以書面方式表示，有關台灣12
+位分析師因詐欺罪遭陸方搜捕一事，政府十分重視。警
+政署刑事局也已向陸方聯繫窗口查 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>台籍分析師上海被捕  陸委會：陸方依協議通報</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北13日電）上海仟和億公司旗下12名台灣分析師，傳出9日遭中國警方逮捕。陸委會今天證實這項消息，並要求陸方依據兩岸共打協議，通報遭刑事拘留的台人訊息。</p>
+<p>大陸委員會13日下午以書面方式表示，有關台灣12位分析師因詐欺罪遭陸方搜捕一事，政府十分重視。警政署刑事局也已向陸方聯繫窗口查證，確實有12名台灣分析師遭上海警方逮捕，其中9名取保候審，3名刑事拘留。</p>
+<p>陸委會表示，已要求陸方依據「兩岸共同打擊犯罪與司法互助協議」，通報台灣遭刑事拘留者的姓名、案由及羈押處所等資訊，相關機關將密切追蹤後續情況，並確保台人應有權益；而海基會也已透過上海台商協會，持續了解本案，以利適時提供相關協助。</p>
+<p>陸委會呼籲中國大陸，任何涉及台灣人民人身安全與自由的案件，都應審慎優先處理，並踐行公開、透明之正當法律程序，確實履行「兩岸共同打擊犯罪與司法互助協議」的人身安全通報等規定，保障台人在陸的司法權益，並為相關人員家屬赴陸探視提供便利。</p>
+<p>陸委會也提醒赴陸發展的台灣民眾，中國大陸的法律規範與司法制度，與台灣和國際民主體制有非常大的不同，在陸生活及發展，應謹慎注意人身安全等風險。（編輯：沈朋達/林克倫）1080713</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T075454</FirstCreated>
+          <ThisRevisionCreated>20190713T075454</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0140" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0140">
+              <DateLine>20190713T075454</DateLine>
+              <Author>陳家倫</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>台籍分析師上海被捕  員工正常上班宣稱沒事</HeadLine>
+                     <SlugLine>上海仟和億公司旗下
+12名台灣分析師近日疑似因涉嫌詐欺，傳出於9日遭到
+逮捕。不過公司員工今天還是正常上班，面對查證分析
+師被捕一事，均一概否認並稱「沒事」。
+
+    上海仟和億公司旗下12名台籍分析師被捕的消息傳
+出後，引起上海投顧圈人士議論，面對媒體查證皆低調
+以對。大陸委員會證 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>台籍分析師上海被捕  員工正常上班宣稱沒事</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者陳家倫寧海13日電）上海仟和億公司旗下12名台灣分析師近日疑似因涉嫌詐欺，傳出於9日遭到逮捕。不過公司員工今天還是正常上班，面對查證分析師被捕一事，均一概否認並稱「沒事」。</p>
+<p>上海仟和億公司旗下12名台籍分析師被捕的消息傳出後，引起上海投顧圈人士議論，面對媒體查證皆低調以對。大陸委員會證實，確實有12名台灣分析師遭上海警方逮捕，其中9人取保候審，3人遭到刑事拘留。</p>
+<p>上海仟和億公司坐落於上海市南京西路鬧區，仟和億員工今天仍正常到辦公室上班，但對於分析師被捕的事情均一概否認，並解釋因為今天適逢休假日，分析師才沒來公司。</p>
+<p>仟和億公司並在官網首頁公告，由於公司系統故障，未能按時播放節目，修復完成會第一時間發出通知。公告日期為2019年7月9日，與外傳分析師被捕日為同一天。只是至今已5天過去，仟和億仍未公告系統修復。（編輯：沈朋達）1080713</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T074853</FirstCreated>
+          <ThisRevisionCreated>20190713T074853</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0135" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0135">
+              <DateLine>20190713T074853</DateLine>
+              <Author>張謙</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>港反修例者持續在地方成立連儂牆</HeadLine>
+                     <SlugLine>香港反對修訂逃犯條例
+的民眾，今天繼續在地方成立代表自由和對抗權威的「
+連儂牆」，也有人發起「光復」遊行。
+
+    在九龍樂富，今天有反修例者成立「連儂牆」（
+John Lennon Wall），讓市民張貼支持反修例的紙條。
+
+    香港「連儂牆」所觸發的爭端今天開始減少，但凌
+ ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>港反修例者持續在地方成立連儂牆</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者張謙香港13日電）香港反對修訂逃犯條例的民眾，今天繼續在地方成立代表自由和對抗權威的「連儂牆」，也有人發起「光復」遊行。</p>
+<p>在九龍樂富，今天有反修例者成立「連儂牆」（John Lennon Wall），讓市民張貼支持反修例的紙條。</p>
+<p>香港「連儂牆」所觸發的爭端今天開始減少，但凌晨左右，警方再派人到新界大埔墟地鐵站外行人隧道的「連儂牆」，撕掉牆上部分涉及警員身分資料的紙條。</p>
+<p>另外，有網民今天發起到香港中銀櫃員機「撳（提）錢」行動，目的是要求政府撤回相關草案，並成立獨立委員會調查警方6月12日在立法會外的清場行動。</p>
+<p>但據報導，中銀櫃員機今天大致與平常差不多，沒有特別情況。</p>
+<p>下午3時許，有網民發起「光復上水」行動，目的是針對區內的水貨客，連帶表達反修例訴求。在遊行前，區內不少商店關門，以免出現衝突而受到波及。（編輯：林克倫）1080713</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T071553</FirstCreated>
+          <ThisRevisionCreated>20190713T071553</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0126" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0126">
+              <DateLine>20190713T071553</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>制裁對台軍售美企 中國官媒預告：拭目以待</HeadLine>
+                     <SlugLine>中國外交部昨天宣佈將制裁對台
+軍售的美國企業後，官媒央視新聞今天預告，中國商務
+部將於近期發佈「不可靠實體清單」，「到底誰會被制
+裁，不妨拭目以待」。
+
+    中國商務部此前表示，納入「不可靠實體清單」制
+裁，考量的因素包括「是否對國家安全構成威脅或者潛
+在的威脅」。
+
+     ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>制裁對台軍售美企 中國官媒預告：拭目以待</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北13日電）中國外交部昨天宣佈將制裁對台軍售的美國企業後，官媒央視新聞今天預告，中國商務部將於近期發佈「不可靠實體清單」，「到底誰會被制裁，不妨拭目以待」。</p>
+<p>中國商務部此前表示，納入「不可靠實體清單」制裁，考量的因素包括「是否對國家安全構成威脅或者潛在的威脅」。</p>
+<p>針對美國國務院9日宣佈批准總值超過22億美元的對台軍售，中國外交部12日發出新聞稿，宣稱將制裁參與此次售台武器的美企。</p>
+<p>這不是中國首度作此宣佈，但美國1989年宣布對中國實行軍事禁運，禁令至今未曾停止。中國此前數度宣示要「制裁美企」，也未曾明確實行。</p>
+<p>對此，央視新聞今天報導稱，中國商務部11日舉行例行新聞發佈會，商務部發言人高峰在會中表示，目前，「不可靠實體清單」制度正在履行相關的程式，將於近期發佈。</p>
+<p>報導指出，在被問及是否會將美國聯邦快遞公司（UPS）列入「不可靠實體清單」時，高峰回應稱，需要綜合考慮以下因素：</p>
+<p>一、該實體是否存在針對中國實體實施封鎖、斷供或者其他歧視性措施的行為。</p>
+<p>二、該實體行為是否基於非商業目的，違背市場規則和契約精神。</p>
+<p>三、該實體行為是否對中國企業或相關產業造成實質損害。</p>
+<p>四、該實體行為「是否對國家安全構成威脅或者潛在的威脅」。</p>
+<p>報導預告，「到底誰會被制裁，不妨拭目以待」。</p>
+<p>報導並點名，這次售台的M1A2戰車是由通用動力地面系統公司(General Dynamics Land Systems)設計，並由位於俄亥俄州的「聯合系統製造中心」（JointSystems Manufacturing Center）負責生產。</p>
+<p>此外，M88A2裝甲救濟車的生產商是位於賓州的BAE公司；M1070A1重裝運輸車是美國豪士科集團（OshkoshCorporation）所生產；刺針飛彈（Stinger Missiles）的生產商是雷神公司（Raytheon）。（編輯：楊昇儒/沈朋達）1080713</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T045449</FirstCreated>
+          <ThisRevisionCreated>20190713T045449</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0088" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0088">
+              <DateLine>20190713T045449</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>柯筌耀遭舉報 陸委會發影片提醒赴陸求學風險</HeadLine>
+                     <SlugLine>台生柯筌耀日前遭大陸網民舉報
+「精日台獨」。陸委會今天在臉書專頁發表影片提醒，
+赴陸求學很難申請歐美學校與工作等風險，呼籲台生謹
+慎評估，「全世界都可以是你的選擇」。
+
+    大陸委員會今天在臉書專頁推出的動畫影片，開宗
+明義強調「去中國大陸讀書，沒你想像的夯」。
+
+    影片指 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>柯筌耀遭舉報 陸委會發影片提醒赴陸求學風險</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北13日電）台生柯筌耀日前遭大陸網民舉報「精日台獨」。陸委會今天在臉書專頁發表影片提醒，赴陸求學很難申請歐美學校與工作等風險，呼籲台生謹慎評估，「全世界都可以是你的選擇」。</p>
+<p>大陸委員會今天在臉書專頁推出的動畫影片，開宗明義強調「去中國大陸讀書，沒你想像的夯」。</p>
+<p>影片指出，媒體報導說，近年流行去中國大陸讀書，但2018年台灣高中應屆畢業生有24萬多人，只有400多人赴陸求學，不到0.2%。</p>
+<p>影片也指出，中國大陸的醫學系畢業生，無法考取台灣的醫師證照；而科技相關領域的畢業生，「很難申請到歐美的學校和工作」。</p>
+<p>影片雖未提到柯筌耀遭舉報等政治風險問題，仍提醒台灣學生要了解海外求學風險，謹慎評估，「其實，全世界都可以是你的選擇」。</p>
+<p>柯筌耀事件昨天在台灣引發軒然大波，陸委會連續兩天在臉書發表提醒赴陸求學風險的文宣與影片，引發網友的正反意見。有網友留言表示「要選也要選歐美」，也有網友質疑很難申請歐美學校的說法，表示「大陸很多好大學，每年都有很多人申請美國留學」。</p>
+<p>中國武漢大學新近錄取的台籍交換研究生柯筌耀，日前被大陸網民舉報曾在臉書（facebook）發表「精日」、「台獨」言論，武漢大學表示，將依法規處置。柯荃耀12日表示，將不前往武大交換就讀。（編輯：沈朋達/楊昇儒）1080713</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T040348</FirstCreated>
+          <ThisRevisionCreated>20190713T040348</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0065" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0065">
+              <DateLine>20190713T040348</DateLine>
+              <Author>張謙</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>香港支聯會悼念劉曉波逝世兩週年</HeadLine>
+                     <SlugLine>今天是諾貝爾和平獎得
+主劉曉波逝世兩週年，香港支聯會今晚將為劉曉波舉行
+追思會，並在「六四紀念館」舉辦劉曉波專題展及書展
+，以表悼念。
+
+    香港市民支援愛國民主運動聯合會的「六四紀念館
+」剛於4月才搬遷完成，除了迎來「六四」30週年紀念
+外，近日展開悼念劉曉波的活動。
+
+   ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>香港支聯會悼念劉曉波逝世兩週年</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者張謙香港13日電）今天是諾貝爾和平獎得主劉曉波逝世兩週年，香港支聯會今晚將為劉曉波舉行追思會，並在「六四紀念館」舉辦劉曉波專題展及書展，以表悼念。</p>
+<p>香港市民支援愛國民主運動聯合會的「六四紀念館」剛於4月才搬遷完成，除了迎來「六四」30週年紀念外，近日展開悼念劉曉波的活動。</p>
+<p>7月1日起，「六四紀念館」舉行專題展，展示劉曉波的著作和相關書籍，以及其遺孀劉霞的詩集等，為期一個月。</p>
+<p>支聯會今晚7時還會為劉曉波舉行追思會，活動在文化中心廣場舉行。</p>
+<p>「六四紀念館」最早於2012年臨時設立。2014年，支聯會在尖沙咀一幢大樓內設立永久會館。但由於受到大廈業主反對，支聯會其後另覓地方設館。</p>
+<p>今年4月26日，新的紀念館在旺角一幢大樓內重設，主題為「記憶。公義。希望」，主要紀念在「八九」民運中犧牲的人。（編輯：楊昇儒）1080713</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T035048</FirstCreated>
+          <ThisRevisionCreated>20190713T035048</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0060" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0060">
+              <DateLine>20190713T035048</DateLine>
+              <Author>中央社</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>台生柯筌耀遭舉報 中國官媒讚：懲獨壯統</HeadLine>
+                     <SlugLine>台生柯筌耀遭大陸網民舉報「精
+日台獨」後，昨天決定不去武漢大學交換就讀。對此，
+中國「你好台灣網」官方微博昨天發文讚為「懲獨壯統
+」，並鼓勵網民繼續排查，讓更多台獨「沒辦法」。
+
+    中國中央廣播電視總台轄下的「你好台灣網」官方
+微博昨天發文稱，將赴武大交換的台生柯筌耀，日前被
+「 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>台生柯筌耀遭舉報 中國官媒讚：懲獨壯統</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社台北13日電）台生柯筌耀遭大陸網民舉報「精日台獨」後，昨天決定不去武漢大學交換就讀。對此，中國「你好台灣網」官方微博昨天發文讚為「懲獨壯統」，並鼓勵網民繼續排查，讓更多台獨「沒辦法」。</p>
+<p>中國中央廣播電視總台轄下的「你好台灣網」官方微博昨天發文稱，將赴武大交換的台生柯筌耀，日前被「兩岸愛國網友」發現，多次發表台獨精日言論，幻想日本祖國收復台灣。武大回應啟動調查後，柯筌耀主動放棄交換機會，稱「沒辦法」。顯然，他認帳了。</p>
+<p>文章稱，這充分體現兩岸愛國同胞彼此互愛、「懲獨壯統」的努力實效。</p>
+<p>文章並稱，行勝於言！在今後的兩岸交流、同胞互利過程中，還需大家齊心合力，排查、匯聚、提醒、幫助，讓更多台獨「沒辦法」、讓更多同胞有實惠。</p>
+<p>文章強調，無論求學就業、文藝活動、貿易往來、領保撤僑……你是同胞、家人，就有權有尊嚴；「你是台獨？你在黑名單。你，沒份還受罰！」</p>
+<p>文章並強調，交流是為走正路、明大義、共創共用中華榮光，絕非默認台獨逆流積非成是。「和平交流、吸血叛國？想都別想！」</p>
+<p>文章最後揚言，「台灣在我國內，台獨是我家賊。對自外中華家門者，我們在自家清理門戶，誰也管不著、誰也管不了！」</p>
+<p>柯筌耀遭舉報而放棄就讀，昨天在台灣引起譁然，但絕大多數中國官媒並未跟進報導，國台辦轄下的「中國台灣網」對此事更是隻字未提。</p>
+<p>率先舉報柯筌耀的微博網民「台灣那點事兒」，其舉報文章已被網管禁止轉發及評論。（編輯：楊昇儒/沈朋達）1080713</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T032047</FirstCreated>
+          <ThisRevisionCreated>20190713T032047</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0054" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0054">
+              <DateLine>20190713T032047</DateLine>
+              <Author>繆宗翰</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>回顧對台軍售案例  中國反應一次看懂</HeadLine>
+                     <SlugLine>回顧2008年至今，每
+逢美對台軍售，北京均透過外交、國防系統，對美方提
+出暫停軍事往來或制裁美企等措施。不過中斷軍事聯繫
+，時間最長約在8個月，制裁美企也未曾明確執行。
+
+    美國國務院9日宣布批准2項對台軍售，總價值超過
+22億美元（約新台幣660億元），項目包括M1A2T艾布蘭 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>回顧對台軍售案例  中國反應一次看懂</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者繆宗翰北京13日電）回顧2008年至今，每逢美對台軍售，北京均透過外交、國防系統，對美方提出暫停軍事往來或制裁美企等措施。不過中斷軍事聯繫，時間最長約在8個月，制裁美企也未曾明確執行。</p>
+<p>美國國務院9日宣布批准2項對台軍售，總價值超過22億美元（約新台幣660億元），項目包括M1A2T艾布蘭戰車（Abrams）與相關設備及支援，以及可攜式刺針防空飛彈（Stinger Missiles）與相關設備。</p>
+<p>為此，中國外交部發言人耿爽先是在10日對外表示，已向美方提出嚴正交涉，要求撤回軍售案，隨後於北京時間12日傍晚發出新聞稿，宣稱將制裁參與此次售台武器的美國企業。</p>
+<p>在本輪美國對台軍售前，北京針對2008、2009、2010以及2015年等4次軍售案均曾揚言制裁美國企業。其中，尤以2008年、2010年的反應最為激烈。</p>
+<p>公開資料顯示，2008年10月，小布希（George W.Bush）政府在下台前，宣佈總價值約64.45億元的對台軍售案，項目包括4套愛國者飛彈發射組、330枚愛國者PAC-3型飛彈、E-2T預警機升級、AH-64E阿帕契直昇機30架、UGM-84L魚叉飛彈32枚等。</p>
+<p>中國外交部當時為此召見美國駐中國使館臨時代辦，並提出抗議，中國全國人大外事委員會、國防部也發聲譴責。北京還宣布「暫緩」和「推遲」雙邊軍事交流，但2009年6月，第10次中美國防部防務磋商在北京舉行，中斷軍事聯繫歷時僅8個月。</p>
+<p>2010年1月30日，美國再度宣布大型對台軍售案，項目包括2套愛國者PAC-3發射組、UH-60黑鷹直升機60架、鶚級獵雷艦2艘、魚叉遙測訓練飛彈12枚、MIDS終端機增購35具等，總價值約63.94億元。</p>
+<p>北京在2010年的反應機制與2008年雷同，中國外交部提出抗議、宣布對參與軍售台灣的美國企業實施制裁；國防部則宣布暫停中美兩軍計劃內的有關互訪安排，並召見美國駐北京大使館軍事武官。中國國務院台灣事務辦公室、全國人大外事委員會也發聲譴責。</p>
+<p>不過，這次中美兩國軍事往來，同樣暫停8個月即告恢復。</p>
+<p>事實上，在1989年天安門事件過後，美國隨即宣布對中國實行軍事禁運，禁令至今未曾停止。因此，中國宣稱的「制裁美企」，也未曾明確實行。（編輯：楊昇儒）1080713</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190713T024447</FirstCreated>
+          <ThisRevisionCreated>20190713T024447</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190713CFP0044" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190713CFP0044">
+              <DateLine>20190713T024447</DateLine>
+              <Author>張謙</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>港大校長與反修例學生對話 重申反對暴力</HeadLine>
+                     <SlugLine>香港大學校長張翔日前
+曾譴責「反送中」示威者暴力衝擊立法會，引起部份學
+生不滿。學生會代表昨晚與張翔對話，張翔重申其譴責
+暴力的立場。
+
+    港大學生會昨晚在校園中山廣場舉行「光復港大」
+集會，約有400人參加，他們抗議張翔就立法會衝擊事
+件發表的聲明，形容是「冷血」，要求收回；同 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>港大校長與反修例學生對話 重申反對暴力</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者張謙香港13日電）香港大學校長張翔日前曾譴責「反送中」示威者暴力衝擊立法會，引起部份學生不滿。學生會代表昨晚與張翔對話，張翔重申其譴責暴力的立場。</p>
+<p>港大學生會昨晚在校園中山廣場舉行「光復港大」集會，約有400人參加，他們抗議張翔就立法會衝擊事件發表的聲明，形容是「冷血」，要求收回；同時要求張翔保障教職員言論自由，以及不處分參與抗爭的教職員。</p>
+<p>這些學生集會後到校內的校長府邸，要求與張翔對話。</p>
+<p>張翔先是透過港大學生事務長梁若芊向集會的學生轉達訊息說，他日前已對相關訴求作出回覆，即學術自由、言論自由以及集會自由都是香港大學的核心價值，校長會堅守。</p>
+<p>之後，張翔走出府邸，直接與學生對話。他重申反對任何人作出任何形式的暴力，並說明白香港目前正面對巨大挑戰及深層次社會問題，但暴力並非解決方法。</p>
+<p>他說， 「7.1」 事件令他感到震驚，他為市民以及參與的學生感到憂慮，希望學生能和平表達訴求，而學生在校園能暢所欲言，展現出民主社會應有的價值。</p>
+<p>張翔並說，如果警方沒有搜查令，他不會容許警察進入校園執法，這番談話獲得學生拍手回應。</p>
+<p>一般相信，有大學生於1日參與包圍並闖進立法會的行動。</p>
+<p>香港反修訂逃犯條例風波近期導致一些大學校長或高層捲入漩渦中，主因是示威者於1日衝進立法會並進行破壞後，部分人士曾使用「暴力」措詞發表相關言論。</p>
+<p>反修列示威者於1日衝擊立法會後，張翔曾於3日發表聲明，表示對事件深感痛心，並說「破壞性的行動應予譴責」；他同時呼籲各方理性而務實地解決紛爭，莫再訴諸對抗。</p>
+<p>對於張翔把衝擊立法會定性為「破壞性行動」，有港大學生、校友及職員不滿，而學生會日前也曾批評校長的聲明。</p>
+<p>除了張翔，香港多所大學校長或高層也曾就「7.1」立法會受衝擊一事發表評論，言詞大都使用「暴力」字眼，比如嶺南大學校長鄭國漢說「不能容忍任何暴力行為」，期盼各方放下成見。</p>
+<p>理工大學校長滕錦光說，暴力不是解決問題方法，冀盼各方建立具建設性對話；科技大學校長史維表示，縱使需譴責暴力，但社會有必要討論問題根源。</p>
+<p>張翔具中國大陸背景，1985年畢業於南京大學物理學系，其後赴美國留學，1996年獲得美國加州大學柏克萊分校機械工程系博士。2018年7月中，張翔出任港大校長，任期5年。（編輯：沈朋達）1080713</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+   <NewsItem LinkType="opennew">
+      <Identification>
+         <NewsIdentifier>
+            <ProviderId>中央通訊社</ProviderId>
+         </NewsIdentifier>
+      </Identification>
+      <NewsManagement>
+          <NewsItemType FormalName="News" />
+          <FirstCreated>20190712T111836</FirstCreated>
+          <ThisRevisionCreated>20190712T111836</ThisRevisionCreated>
+          <Status FormalName="Usable" />
+      </NewsManagement>
+      <NewsComponent Duid="newsitem_20190712CFP0271" Essential="no" EquivalentsList="no">
+          <NewsLines>
+            <CopyrightLine>Copyright (c) The Central News Agency. All Rights Reserved.</CopyrightLine>
+          </NewsLines>
+          <NewsComponent Duid="20190712CFP0271">
+              <DateLine>20190712T111836</DateLine>
+              <Author>繆宗翰</Author>
+              <NewsComponent>
+                  <Role FormalName="Main" />
+                  <NewsLines>
+                  <HeadLine>蔡總統過境紐約期間  北京宣布制裁對台軍售美企</HeadLine>
+                     <SlugLine>總統蔡英文出訪友邦
+，於當地時間11日過境紐約。中國外交部今天傍晚以發
+言人耿爽名義在官網刊登新聞稿宣布，將對參與此次售
+台武器的美國企業實施制裁。
+
+    新聞稿宣稱，「美方向台灣出售武器嚴重違反國際
+法和國際關係基本準則，嚴重違反一個中國原則和中美
+三個聯合公報規定,損害中國主權 ... </SlugLine>
+                     <MoreLink />
+                  </NewsLines>
+                  <ContentItem>
+                     <MediaType FormalName="ComplexData" />
+                     <MimeType FormalName="text/vnd.IPTC.NITF" />
+                     <DataContent>
+                        <nitf>
+                           <body>
+                              <body.head>
+                                 <hedline>
+                                     <hl1>蔡總統過境紐約期間  北京宣布制裁對台軍售美企</hl1>
+                                 </hedline>
+                              </body.head>
+                              <body.content>
+                                 <p>（中央社記者繆宗翰北京12日電）總統蔡英文出訪友邦，於當地時間11日過境紐約。中國外交部今天傍晚以發言人耿爽名義在官網刊登新聞稿宣布，將對參與此次售台武器的美國企業實施制裁。</p>
+<p>新聞稿宣稱，「美方向台灣出售武器嚴重違反國際法和國際關係基本準則，嚴重違反一個中國原則和中美三個聯合公報規定,損害中國主權和國家安全。為了維護國家利益，中方將對參與此次售台武器的美國企業實施制裁」。</p>
+<p>蔡總統11日起展開自由民主永續之旅，將在美國待4晚：去程過境紐約停留2天，出訪加勒比海友邦結束後，回程過境丹佛也將待2天。</p>
+<p>於此前夕，美國國務院9日宣布批准2項對台軍售，包括總額達20億美元的M1A2T艾布蘭戰車（Abrams）與相關設備及支援，以及總額達2.23億美元的可攜式刺針防空飛彈（Stinger Missiles）與相關設備。</p>
+<p>對於蔡總統過境美國，耿爽今天下午在例行記者會中再次強調，已向美方嚴正交涉，要求恪守「一中原則」，「不允許蔡英文過境，停止美台官方往來」。耿爽也再次要求美方立即停止對台軍售，停止美台軍事聯繫。（編輯：沈朋達）1080712</p>
+
+                              </body.content>
+                              </body>
+                        </nitf>
+                     </DataContent>
+                  </ContentItem>
+              </NewsComponent>
+          </NewsComponent>
+      </NewsComponent>
+   </NewsItem>
+</NewsML>
