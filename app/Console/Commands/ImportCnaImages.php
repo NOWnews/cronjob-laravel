@@ -2,7 +2,9 @@
 
 namespace App\Console\Commands;
 
+use Carbon\Carbon;
 use Illuminate\Console\Command;
+use Illuminate\Support\Facades\DB;
 
 class ImportCnaImages extends Command
 {
@@ -28,6 +30,8 @@ class ImportCnaImages extends Command
     public function handle()
     {
         $cnaImagesUrl = 'http://rss.cna.com.tw/client/nownews/pho/gallery_feed_cnaphoto.xml';
+        $authorId = 4; // author id of 中央社
+        $now = Carbon::now('Asia/Taipei');
 
         // get cna images xml info
         $result = file_get_contents($cnaImagesUrl);
@@ -58,6 +62,10 @@ class ImportCnaImages extends Command
                     continue;
                 }
 
+                // get Duid
+                $duid = (string)$newsComponent->NewsComponent->attributes()['Duid'];
+                $imageItem['duid'] = $duid;
+
                 $supportingComponents = $newsComponent->NewsComponent->NewsComponent;
 
                 foreach ($supportingComponents as $supportingComponent) {
@@ -84,11 +92,25 @@ class ImportCnaImages extends Command
         $this->info('Import cna images into media...');
 
         foreach ($imageItems as $imageItem) {
+            $duid = $imageItem['duid'];
             $url = $imageItem['href'];
             $caption = $imageItem['caption'];
             $title = $imageItem['title'];
-            $wpCli = "wp media import {$url} --allow-root --path=\"/var/www/html\" --title=\"{$title}\" --caption=\"{$caption}\" --porcelain";
+
+            // ignore if post exists
+            if ($this->isPostsExists($duid)) {
+                continue;
+            }
+
+            // import image into media
+            $wpCli = "wp media import {$url} --post_author={$authorId} --allow-root --path=\"/var/www/html\" --title=\"{$title}\" --caption=\"{$caption}\" --porcelain";
             $mediaId = (int)shell_exec($wpCli);
+
+            // record guid to prevent repeat import
+            DB::table('cna_feed')->insert([
+                'guid' => $duid,
+                'created_at' => $now,
+            ]);
 
             // print messages
             $this->line("Import Completed ! media id: {$mediaId}");
@@ -99,5 +121,20 @@ class ImportCnaImages extends Command
         }
 
         $this->info('Import cna images into media all completed !');
+    }
+
+    protected function isPostsExists(string $guid)
+    {
+        $post = DB::table('cna_feed')
+            ->where('guid', $guid)
+            ->first();
+
+        if (!$post) {
+            return false;
+        }
+
+        $this->warn("Duid is exists: {$guid}");
+
+        return true;
     }
 }
