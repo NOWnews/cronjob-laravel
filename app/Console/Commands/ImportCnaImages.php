@@ -105,6 +105,11 @@ class ImportCnaImages extends Command
             $wpCli = "wp media import {$url} --allow-root --path=\"/var/www/html\" --title=\"{$title}\" --caption=\"{$caption}\" --porcelain";
             $mediaId = (int)shell_exec($wpCli);
 
+            if (!$mediaId) {
+                $this->error("media import fail: {$duid}");
+                continue;
+            }
+
             // record guid to prevent repeat import
             DB::table('cna_feed')->insert([
                 'guid' => $duid,
