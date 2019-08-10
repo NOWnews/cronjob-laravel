@@ -141,4 +141,11 @@ class ImportCnaImages extends Command
 
         return true;
     }
+
+    protected function deletePostRecord(string $guid)
+    {
+        DB::table('cna_feed')
+            ->where('guid', $guid)
+            ->delete();
+    }
 }
