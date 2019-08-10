@@ -30,7 +30,6 @@ class ImportCnaImages extends Command
     public function handle()
     {
         $cnaImagesUrl = 'http://rss.cna.com.tw/client/nownews/pho/gallery_feed_cnaphoto.xml';
-        $authorId = 4; // author id of 中央社
         $now = Carbon::now('Asia/Taipei');
 
         // get cna images xml info
@@ -103,7 +102,7 @@ class ImportCnaImages extends Command
             }
 
             // import image into media
-            $wpCli = "wp media import {$url} --post_author={$authorId} --allow-root --path=\"/var/www/html\" --title=\"{$title}\" --caption=\"{$caption}\" --porcelain";
+            $wpCli = "wp media import {$url} --allow-root --path=\"/var/www/html\" --title=\"{$title}\" --caption=\"{$caption}\" --porcelain";
             $mediaId = (int)shell_exec($wpCli);
 
             // record guid to prevent repeat import
