@@ -95,6 +95,8 @@ class ImportCnaImages extends Command
             $url = $imageItem['href'];
             $caption = $imageItem['caption'];
             $title = $imageItem['title'];
+            $userId = 4; // cna user id
+
 
             // ignore if post exists
             if ($this->isPostsExists($duid)) {
@@ -102,7 +104,7 @@ class ImportCnaImages extends Command
             }
 
             // import image into media
-            $wpCli = "wp media import {$url} --allow-root --path=\"/var/www/html\" --title=\"{$title}\" --caption=\"{$caption}\" --porcelain";
+            $wpCli = "wp media import {$url} --allow-root --path=\"/var/www/html\" --user={$userId} --title=\"{$title}\" --caption=\"{$caption}\" --porcelain";
             $mediaId = (int)shell_exec($wpCli);
 
             if (!$mediaId) {
