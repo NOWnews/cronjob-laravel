@@ -93,15 +93,8 @@ class ImportFarService
 //            			}
 //            			$resDescription = str_replace('"', '\"', $resDescription);
 //				echo $resDescription.$rn;
-                //parser img
-                preg_match_all("/img src=[^>]+/i", $contentDescription, $img);
-                $img = str_replace("img src=\"", "", $img[0]);
-                $img = str_replace("\"", "", $img);
-                $imgUrl = explode(" ", $img[0])[0];
-                $contentDescription = str_replace("/<img src=[^>]+/i", "", $contentDescription);
 
-                $contentDescription = str_replace($imgUrl, "", $contentDescription);
-                $contentDescription = str_replace("<img src=\"\" >", "", $contentDescription);
+                $imgUrl = $value->featuredImage ?? null;
                 $imageAlt = "▲ （圖／遠大）";
 
                 if ($imgUrl == null) {
