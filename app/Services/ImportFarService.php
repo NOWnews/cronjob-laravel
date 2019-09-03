@@ -110,7 +110,7 @@ class ImportFarService
                     file_put_contents("/var/www/html/rssFeed/far_img/$filename", $photoFile);
                     $wp_post = "wp post create --allow-root --path=\"/var/www/html\" --post_type=post --post_author=164 --post_category=$cat_id --post_date=\"" . $pubdateFormat . "\" --meta_input='{\"byline\":\"NOW健康\"}' --post_title=\"" . htmlspecialchars($contentTitle, ENT_QUOTES) . "\" --post_status=publish --post_content=\"" . $contentDescription . "\" --porcelain";
                     $createPost = shell_exec("$wp_post");
-                    $wp_media = "wp media import '/var/www/html/rssFeed/far_img/$filename' --allow-root --path=\"/var/www/html\" --title=\"" . $imageAlt . "\" --alt=\"" . $imageAlt . "\" --featured_image --post_id=" . $createPost;
+                    $wp_media = "wp media import '/var/www/html/rssFeed/far_img/$filename' --allow-root --path=\"/var/www/html\" --title=\"" . $imageAlt . "\" --featured_image --post_id=" . $createPost;
                     $createMedia = shell_exec("$wp_media");
                     if ($createPost != "" || $createMedia != "") {
                         DB::insert('insert into far_feed (guid) values (?)', [$contentGuid]);
